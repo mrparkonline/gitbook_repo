@@ -14,13 +14,25 @@
 {% endtab %}
 
 {% tab title="Advantages" %}
-
+* No need for installations
+* Supports numerous languages, frameworks, and libraries
+* Easy to collaborate
+* Has a free plan
+* You can create public programs (example: Discord Bots)
 {% endtab %}
 
 {% tab title="Disadvantages" %}
-
+* Can be slow depending on the language, framework, or library
+* Requires an internet connection
+* Anything beyond the requirements of a free plan costs money
+* Free plan contains weak hardware
+* Any code you create on `replit` by a free plan will be public
 {% endtab %}
 {% endtabs %}
 
-## On your own machine: `VScode`
+## On your own machine: `Visual Studio Code`
+
+{% embed url="https://www.youtube.com/watch?v=B-s71n0dHUk" %}
+(Video from Microsoft)
+{% endembed %}
 
