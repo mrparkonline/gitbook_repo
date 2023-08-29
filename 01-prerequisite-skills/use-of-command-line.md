@@ -4,6 +4,10 @@
 
 Command line proficiency empowers programmers with efficiency, flexibility, automation capabilities, remote access, and deeper system-level understanding, making it an essential skill for software development and system administration.
 
+{% embed url="https://www.youtube.com/watch?v=FpRGRLI8Fy8" %}
+How to use Window's Terminal
+{% endembed %}
+
 ## Windows: Command Prompt & PowerShell
 
 Command Prompt and PowerShell are both command-line interfaces found in Windows operating systems, but they serve different purposes and offer varying capabilities.
@@ -17,6 +21,10 @@ Command Prompt is a basic command-line interpreter in Windows. It provides a way
 PowerShell is a more advanced and versatile command-line shell and scripting language developed by Microsoft. It offers a more comprehensive set of tools and capabilities compared to the traditional Command Prompt. PowerShell enables automation, task scripting, and system administration tasks through its object-oriented scripting approach. It's built on the .NET framework and allows users to manipulate various data sources (such as files, registry, and services) as if they were objects. This makes it particularly powerful for managing and automating complex tasks in Windows environments.
 {% endtab %}
 {% endtabs %}
+
+{% embed url="https://www.youtube.com/watch?v=5XgBd6rjuDQ" %}
+How to use the macOS terminal.
+{% endembed %}
 
 ## macOS: Terminal
 

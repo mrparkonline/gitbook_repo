@@ -2,8 +2,8 @@
 
 [**Git**](https://git-scm.com/) and [**GitHub** ](https://github.com/)provide a robust version control system, facilitate collaboration and open-source development, offer backup and recovery mechanisms, and integrate with various tools to enhance the development workflow.
 
-{% embed url="https://www.youtube.com/watch?v=HkdAHXoRtos" %}
-Short Video by Fireship on Git & GitHub
+{% embed url="https://www.youtube.com/watch?v=USjZcfj8yxE" %}
+Learn Git In 15 Minutes by Colt Steele
 {% endembed %}
 
 ## What is Git?
