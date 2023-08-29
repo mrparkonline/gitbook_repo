@@ -4,6 +4,7 @@
   * [Where/How to Code in Python?](introduction/where-how-to-code-in-python.md)
   * [Author Page](introduction/author-page.md)
 * [🧠 01 - Prerequisite Skills](01-prerequisite-skills/README.md)
+  * [Keyboard Typing](01-prerequisite-skills/keyboard-typing.md)
   * [Files & Directories](01-prerequisite-skills/files-and-directories.md)
   * [Use of Command Line](01-prerequisite-skills/use-of-command-line.md)
   * [Git & GitHub](01-prerequisite-skills/git-and-github.md)
