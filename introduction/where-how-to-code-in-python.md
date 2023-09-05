@@ -36,3 +36,14 @@
 (Video from Microsoft)
 {% endembed %}
 
+### Setting up Python for Windows
+
+1. Delete any previous installations of Python and Restart the computer
+2. Install Python 3.11 or later from [**Microsoft Store**](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K)
+3. Install Visual Studio Code from their [**website**](https://code.visualstudio.com/download).
+4. Run Visual Studio Code for initial setup
+
+### Setting up Python for macOS
+
+_Coming soon._
+
