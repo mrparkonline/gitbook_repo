@@ -1,10 +1,12 @@
 # Computer Components
 
-
-
 <figure><img src="https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxnYW1pbmclMjBwY3xlbnwwfHx8fDE2OTMyNjM3MDF8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="" width="375"><figcaption><p>A rainbow puke of a PC</p></figcaption></figure>
 
 A computer is composed of many different electrical components working together. Each individual component will have their own purpose to help the user do computational work.
+
+## Introductory Video to PC Components
+
+{% embed url="https://www.youtube.com/watch?v=XbojrkAYUUg" %}
 
 ## Main Components
 
