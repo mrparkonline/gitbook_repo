@@ -82,6 +82,7 @@
     * [Computer Components](java-essentials-ics3u/computer-environments-and-systems/computer-components/README.md)
       * [In-depth Explanations](java-essentials-ics3u/computer-environments-and-systems/computer-components/in-depth-explanations.md)
     * [File Maintenance](java-essentials-ics3u/computer-environments-and-systems/file-maintenance.md)
+    * [Computer & Safety](java-essentials-ics3u/computer-environments-and-systems/computer-and-safety.md)
     * [Software Development](java-essentials-ics3u/computer-environments-and-systems/software-development.md)
     * [Bits & Binary](java-essentials-ics3u/computer-environments-and-systems/bits-and-binary.md)
   * [Basics](java-essentials-ics3u/basics/README.md)
