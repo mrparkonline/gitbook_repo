@@ -1,2 +1,0 @@
-# Exploring Computer Science
-
