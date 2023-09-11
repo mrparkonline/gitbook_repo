@@ -109,6 +109,6 @@
   * [File I/O](java-essentials-ics3u/file-i-o.md)
   * [Java Style Guide](https://google.github.io/styleguide/javaguide.html)
   * [Topics in CS](java-essentials-ics3u/topics-in-cs/README.md)
-    * [Environmental Stewardship and Sustainability](java-essentials-ics3u/topics-in-cs/environmental-stewardship-and-sustainability.md)
-    * [Careers related to Computer Science](java-essentials-ics3u/topics-in-cs/careers-related-to-computer-science.md)
+    * [Careers related to Computer Science](java-essentials-ics3u/topics-in-cs/exploring-computer-science.md)
     * [Postsecondary Opportunities](java-essentials-ics3u/topics-in-cs/postsecondary-opportunities.md)
+    * [Environmental Stewardship and Sustainability](java-essentials-ics3u/topics-in-cs/environmental-stewardship-and-sustainability.md)
