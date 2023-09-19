@@ -20,7 +20,7 @@ All the methods that are being printed can also have their result set to a varia
 ```java
 double a = 10.3;
 double b = 10.5;
-doublc c = 10.6;
+double c = 10.6;
 
 System.out.println(Math.round(a)); // Outputs: 10
 System.out.println(Math.round(a)); // Outputs: 11
@@ -77,8 +77,3 @@ System.out.println(txt.toLowerCase());   // Outputs "hello world"
 > `.toUpperCase()` converts the string to all uppercase
 >
 > `.toLowerCase()` converts the string to all lowercase
-
-### SOURCES
-
-* w3schools -- [https://www.w3schools.com/java/java\_math.asp](https://www.w3schools.com/java/java\_math.asp)
-* w3schools -- [https://www.w3schools.com/java/java\_strings.asp](https://www.w3schools.com/java/java\_user\_input.asp)
