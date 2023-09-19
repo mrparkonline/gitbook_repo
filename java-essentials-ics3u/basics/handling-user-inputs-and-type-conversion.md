@@ -17,7 +17,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter a line of text: ");
-        String inputLine = scanner.nextLine();
+        String inputLine = sc.nextLine();
 
         System.out.println("You entered: " + inputLine);
 
