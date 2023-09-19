@@ -13,7 +13,7 @@ Here's a basic example of how to use f-strings in Python:
 {% tabs %}
 {% tab title="Example Code" %}
 ```python
-codename = "Alice"
+name = "Alice"
 age = 30
 
 # Using an f-string to embed variables inside a string
