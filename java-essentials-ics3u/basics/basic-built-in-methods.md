@@ -30,6 +30,24 @@ System.out.println(Math.round(a)); // Outputs: 11
 > `Math.round()` converts your double to the nearest integer value.
 
 ```java
+double val1 = 4.3;
+System.out.println(Math.ceil(4.3)); // Outputs 5.0
+
+double val2 = 4.8;
+System.out.println(Math.floor(4.8)); // Outputs 4.0
+```
+
+> `Math.ceil()` stands for "ceiling" and rounds a number up to the nearest integer.&#x20;
+>
+> For example, `Math.ceil(4.3)` would return `5.0`.
+>
+>
+>
+> `Math.floor()` stands for "floor" and rounds a number down to the nearest integer. For example, `Math.floor(4.8)` would return `4.0`.
+>
+> These functions are often used when you need to work with whole numbers or want to adjust a decimal number to the nearest integer in a specific direction
+
+```java
 int x = 10;
 int y = 5;
 
