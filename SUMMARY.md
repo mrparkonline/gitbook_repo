@@ -92,6 +92,7 @@
     * [Arithmetic](java-essentials-ics3u/basics/arithmetic.md)
     * [IPO Model](java-essentials-ics3u/basics/ipo-model.md)
     * [Basic Built-in Methods](java-essentials-ics3u/basics/basic-built-in-methods.md)
+    * [Exercise Questions](java-essentials-ics3u/basics/exercise-questions.md)
   * [Conditionals](java-essentials-ics3u/conditionals/README.md)
     * [Boolean Operators](java-essentials-ics3u/conditionals/boolean-operators.md)
     * [Compare Strings](java-essentials-ics3u/conditionals/compare-strings.md)
