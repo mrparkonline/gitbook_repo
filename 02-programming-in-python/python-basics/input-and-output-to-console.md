@@ -14,7 +14,7 @@ The `print()` function can take any number of parameters separated by commas. Th
 fahrenheit = input("Enter a fahrenheit value: ")
 fahrenheit = float(fahrenheit)
 
-celsius = (fahrenheight - 32.0) * (5/9)
+celsius = (fahrenheit - 32.0) * (5/9)
 
 print(fahrenheit, "is converted to:", celsius, "in celsius")
 ```
