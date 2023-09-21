@@ -1,6 +1,6 @@
 # Exercise Questions
 
-(insert video here)
+{% embed url="https://www.youtube.com/watch?index=2&list=PLjJ2BXwGdqPi8E-WwfuwkODMEziYuToPR&pp=gAQBiAQB&v=a74jWFlUemo" %}
 
 1. **Write a Program that converts a user inputted temperature in Celsius to Fahrenheit.**
 
@@ -8,7 +8,7 @@ $$
 Fahrenheit = (Celsius * 9/5) + 32
 $$
 
-(insert video here)
+{% embed url="https://www.youtube.com/watch?index=3&list=PLjJ2BXwGdqPi8E-WwfuwkODMEziYuToPR&pp=gAQBiAQB&v=uGnEgbp0efY" %}
 
 2. **Write a Program that calculates the cost of the tip and the total cost (meal + tip) of a meal.**&#x20;
 
@@ -18,7 +18,7 @@ Notes:
 - the tip percentage will be inputted as a whole number.
 ```
 
-(insert video here)
+{% embed url="https://www.youtube.com/watch?index=4&list=PLjJ2BXwGdqPi8E-WwfuwkODMEziYuToPR&pp=gAQBiAQB&v=Ny7ZnHkme8w" %}
 
 3. **Write a Program that calculates and outputs the midpoint of two points on a** [**Cartesian Plane**](https://www.varsitytutors.com/hotmath/hotmath\_help/topics/cartesian-plane)**.**
 
@@ -29,11 +29,7 @@ Notes:
 - y2
 </code></pre>
 
-$$
-midpoint(m_x, m_y) = ((x_1+x_2)/2, (y_1+y_2)/2)
-$$
-
-(insert video here)
+{% embed url="https://www.youtube.com/watch?index=5&list=PLjJ2BXwGdqPi8E-WwfuwkODMEziYuToPR&pp=gAQBiAQB&v=DM3g_RD-svU" %}
 
 4. **Write a Program that outputs the number of paint cans needed, the number of paint cans leftover, and the total cost of the project.**&#x20;
 
