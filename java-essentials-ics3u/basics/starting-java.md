@@ -56,7 +56,7 @@ public static void main(String[] args) {
 // BAD:
 public static void main(String[] args) {
   // Your java code goes here.
- System.out.println("Hello, World!");
+system.out.printn("Hello, World!");
 }
 ```
 
