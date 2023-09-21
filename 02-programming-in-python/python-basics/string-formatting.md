@@ -27,7 +27,7 @@ print(message)
 Terminal Output:
 
 ```
-Hello, my name is Alice and I am 30 years old.m 30 years old.
+Hello, my name is Alice and I am 30 years old.
 ```
 {% endtab %}
 {% endtabs %}
