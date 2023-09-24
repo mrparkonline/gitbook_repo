@@ -63,3 +63,22 @@ system.out.printn("Hello, World!");
 3. Most lines in Java ends with a semicolon `;`.
 4. Spelling matters: `println vs. printn`
 5. The label after `class` should be the same as the file's name
+
+## Recommended Boilerplate for Beginners
+
+```java
+// I am assuming your file is called Main.Java
+
+import java.util.Scanner; // This will allow us to do user inputs
+
+class Main {
+    public static void main(String[] args) {
+        // Create your scanner object
+        Scanner sc = new Scanner(System.in);
+        
+        // Write your code here.
+        
+        sc.close(); // Always close your scanner object.
+    }
+}
+```
