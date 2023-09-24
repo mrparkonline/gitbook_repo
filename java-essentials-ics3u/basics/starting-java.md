@@ -82,3 +82,11 @@ class Main {
     }
 }
 ```
+
+## What is Java?
+
+Java is a compiled, versatile, high-level, and object-oriented programming language known for its platform independence, robustness, and wide range of applications.&#x20;
+
+Developers write Java code and then compile it into platform-neutral bytecode using a **Java compiler**.&#x20;
+
+This bytecode can be executed on various platforms and devices by the Java Virtual Machine (JVM). Java is renowned for its strong support for multi-threading, extensive library ecosystem, and the "write once, run anywhere" philosophy, making it a popular choice for web development, mobile app development, enterprise software, and more.
