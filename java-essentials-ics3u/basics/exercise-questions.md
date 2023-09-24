@@ -18,7 +18,7 @@ Notes:
 - the tip percentage will be inputted as a whole number.
 ```
 
-{% embed url="https://www.youtube.com/watch?index=4&list=PLjJ2BXwGdqPi8E-WwfuwkODMEziYuToPR&pp=gAQBiAQB&v=Ny7ZnHkme8w" %}
+{% embed url="https://www.youtube.com/watch?v=f-d7DaMa9QM" %}
 
 3. **Write a Program that calculates and outputs the midpoint of two points on a** [**Cartesian Plane**](https://www.varsitytutors.com/hotmath/hotmath\_help/topics/cartesian-plane)**.**
 
