@@ -2,15 +2,16 @@
 
 ### Math Operators in Java
 
-| Symbols | Operator       | Description                            |
-| ------- | -------------- | -------------------------------------- |
-| +       | Addition       | Adds together two values               |
-| -       | Subtraction    | Subtracts one value from another       |
-| \*      | Multiplication | Multiplies two values                  |
-| /       | Division       | Divides one value by another           |
-| %       | Modulus        | Returns the division remainder         |
-| ++      | Increment      | Increases the value of a variable by 1 |
-| --      | Decrement      | Decreases the value of a variable by 1 |
+| Symbols       | Operator       | Description                            |
+| ------------- | -------------- | -------------------------------------- |
+| +             | Addition       | Adds together two values               |
+| -             | Subtraction    | Subtracts one value from another       |
+| \*            | Multiplication | Multiplies two values                  |
+| /             | Division       | Divides one value by another           |
+| %             | Modulus        | Returns the division remainder         |
+| ++            | Increment      | Increases the value of a variable by 1 |
+| --            | Decrement      | Decreases the value of a variable by 1 |
+| Math.pow(a,b) | Exponentiation | Calculates the result of $$a^b$$       |
 
 ### Code Examples
 
@@ -40,6 +41,8 @@ class Main {
 
         z--;
         System.out.println("Z: " + z); // Z is now back to 1
+        
+        System.out.println("Math.pow(2,4): ", Math.pow(2,4)) // Outputs: 16
     }
 }
 ```
