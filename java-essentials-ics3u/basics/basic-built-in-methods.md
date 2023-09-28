@@ -23,8 +23,8 @@ double b = 10.5;
 double c = 10.6;
 
 System.out.println(Math.round(a)); // Outputs: 10
-System.out.println(Math.round(a)); // Outputs: 11
-System.out.println(Math.round(a)); // Outputs: 11
+System.out.println(Math.round(b)); // Outputs: 11
+System.out.println(Math.round(c)); // Outputs: 11
 ```
 
 > `Math.round()` converts your double to the nearest integer value.
