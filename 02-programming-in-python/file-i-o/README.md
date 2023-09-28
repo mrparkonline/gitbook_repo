@@ -155,5 +155,5 @@ It's important to note that these methods maintain a position in the file, so co
 This code will create or overwrite the file "example.txt" with the specified text. If the file already exists, the content will be replaced, so be cautious when using 'w' mode to avoid unintentional data loss.
 
 {% hint style="info" %}
-To avoid deleting the contents of a file and add on data instead, the mode shoule be set to `"a"` for your `open()` mode.
+To avoid deleting the contents of a file and add on data instead, the mode should be set to `"a"` for your `open()` mode.
 {% endhint %}
