@@ -14,7 +14,7 @@ A sorting algorithm that is based upon comparing pairs of values and swapping th
 
 **Bubble Sort Demonstration:**
 
-![Source](https://mrparkonline.github.io/figures/bubble.gif)
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif" alt=""><figcaption><p><a href="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif">Image Source</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Pseudocode" %}
@@ -78,7 +78,7 @@ A sorting algorithm that iterates sorts from the bottom one element at a time.
 
 **Insertion Sort Demonstration:**
 
-![Source](https://mrparkonline.github.io/figures/insert.gif)
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif" alt=""><figcaption><p><a href="https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif">Image Source</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Pseudocode" %}
@@ -149,7 +149,7 @@ It brings the smallest values to the sorted list then removed the smallest value
 
 **Selection Sort Demonstration:**
 
-![Source](https://mrparkonline.github.io/figures/select.gif)
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif" alt=""><figcaption><p><a href="https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif">Image Source</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Pseudocode" %}
@@ -199,4 +199,3 @@ Sorted: [1, 3, 3, 4, 5, 6, 7, 8]
 The 3 sorting algorithms are learned together due to their Big-O Notation.
 
 All 3 algorithms are classified as $$O(n^2)$$.
-

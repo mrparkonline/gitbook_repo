@@ -1,5 +1,7 @@
 # Binary Search
 
+<figure><img src="https://www.mathwarehouse.com/programming/images/binary-vs-linear-search/binary-and-linear-search-animations.gif" alt=""><figcaption><p><a href="https://mathwarehouse.com/programming/gifs/binary-vs-linear-search.php">Image Source</a></p></figcaption></figure>
+
 A searching algorithm that is designed to search from a sorted list.
 
 **Idea:**
@@ -16,8 +18,6 @@ A searching algorithm that is designed to search from a sorted list.
 * First is a binary search and showing how it’d work
 * Second is a sequential search which is the same as a linear search
 
-![](https://mrparkonline.github.io/figures/binSearch.gif)
-
 ### Complexity of Binary Search <a href="#complexity-of-binary-search" id="complexity-of-binary-search"></a>
 
 Big O Notation: $$O(logn)$$
@@ -27,7 +27,7 @@ We are splitting the dataset continuously into halves until we hit our target or
 ### Algorithm <a href="#algorithm" id="algorithm"></a>
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Pseudocode" %}
 ```
 Let A be a sorted array; N be length of A; T be searching target
 

@@ -4,7 +4,7 @@
 
 As computer scientists started to develop various algorithms for a solutions, they needed a way to classify the effectiveness of their algorithms, and they also required a way to prove that a new algorithm is better than the old by mathematical proof & analysis.
 
-![Image Source](https://mrparkonline.github.io/figures/theta.png)
+<figure><img src="https://cdn.programiz.com/sites/tutorial2program/files/big0.png" alt=""><figcaption><p><a href="https://www.programiz.com/dsa/asymptotic-notations">Image Source</a></p></figcaption></figure>
 
 Due to this, three notations methods were developed:
 
@@ -46,9 +46,7 @@ The following is a common list of complexities from best to worst performance:
 - O(n!)→ Factorial Complexity
 ```
 
-![](https://mrparkonline.github.io/figures/bigO.png)
-
-#### Time & Space Complexity <a href="#time--space-complexity" id="time--space-complexity"></a>
+Time & Space Complexity
 
 * **Time**: the measure of how long an algorithm takes
 * **Space**: the measure of how much disk space that the algorithm requires from the computer
@@ -177,6 +175,3 @@ The refactored version only analyzes value from 1 to SquareRoot(n); therefore, t
 $$
 O(n) =  \sqrt{n}
 $$
-
-
-
