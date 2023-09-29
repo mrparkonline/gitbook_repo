@@ -100,6 +100,7 @@
     * [If Else Statements](java-essentials-ics3u/conditionals/if-else-statements.md)
     * [Making Multiple Decisions](java-essentials-ics3u/conditionals/making-multiple-decisions.md)
     * [Using Switch](java-essentials-ics3u/conditionals/using-switch.md)
+    * [Exercise Questions](java-essentials-ics3u/conditionals/exercise-questions.md)
   * [Iterations](java-essentials-ics3u/iterations/README.md)
     * [While Loops](java-essentials-ics3u/iterations/while-loops.md)
     * [For Loop](java-essentials-ics3u/iterations/for-loop.md)
