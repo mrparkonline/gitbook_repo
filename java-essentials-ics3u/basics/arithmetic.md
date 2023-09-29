@@ -42,7 +42,7 @@ class Main {
         z--;
         System.out.println("Z: " + z); // Z is now back to 1
         
-        System.out.println("Math.pow(2,4): ", Math.pow(2,4)) // Outputs: 16
+        System.out.println("Math.pow(2,4): " + Math.pow(2,4)); // Outputs: 16
     }
 }
 ```
