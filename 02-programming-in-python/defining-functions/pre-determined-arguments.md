@@ -29,9 +29,9 @@ def distance(x, y, a=0,b=0):
     return result
 # end of distance()
 
-print('Distance from (3,4) to (10,13) is %f units.' % distance(3, 4, 10, 13))
-print('Distance from (5,12) from the origin is %f units.' % distance(5,12))
-print('Distance from (1,1) to (5,5) is %f units' % distance(x=1, y=1, a=5, b=5))
+print(f'Distance from (3,4) to (10,13) is {distance(3, 4, 10, 13)} units.')
+print(f'Distance from (5,12) from the origin is {distance(5,12)} units.')
+print(f'Distance from (1,1) to (5,5) is {distance(x=1, y=1, a=5, b=5)} units')
 ```
 
 ```
