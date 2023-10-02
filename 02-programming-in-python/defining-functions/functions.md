@@ -55,7 +55,7 @@ def functionName(arg1, arg2, arg3):
 
 1. Write a short single sentence on what the function does
 2. List each arguments and describe what they are and the datatype
-3.
+3. Describe the return statements data type and what it returned.
 
 {% hint style="info" %}
 A docstring should give enough information to write a call to the function without reading the function’s code. The docstring should describe the function’s calling syntax and its semantics, but generally not its implementation details, unless those details are relevant to how the function is to be used. ([**Source**](https://google.github.io/styleguide/pyguide.html#383-functions-and-methods))
