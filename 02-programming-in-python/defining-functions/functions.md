@@ -1,5 +1,7 @@
 # Functions
 
+{% embed url="https://www.youtube.com/watch?v=u-OmVr_fT4s" %}
+
 * In Python 3, we are able to create custom functions that are much similar to the built-in functions we have encountered
 * These functions are callable and can output results to our liking
 * This allows us to organize our code when our projects become more complex
@@ -24,7 +26,7 @@ _Similar concepts: methods, subroutines and procedures_
 
 1. **Clean Code:** We want organize a solution to problem or a part of a problem into a single function
 2. **Algorithms:** Without functions, we cannot express algorithms properly
-3. **Resuablility:** Functions prevent us from repeating code you’ve written before
+3. **Reusability:** Functions prevent us from repeating code you’ve written before
 4. **Single Serving:** Functions prevent overloaded programs that look like spaghetti
 
 ### Python Function Syntax <a href="#python-function-syntax" id="python-function-syntax"></a>
