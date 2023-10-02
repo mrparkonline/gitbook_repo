@@ -1,18 +1,18 @@
 # Exercise Questions
 
-(Insert Video Here)
+{% embed url="https://www.youtube.com/watch?v=FG75fM1klQ0" %}
 
 1. Write a Program that takes two integer inputs of `num1` and `num2`. Determine if `num1` is greater than, equal to, or less than `num2`.
 
-(Insert Video Here)
+{% embed url="https://www.youtube.com/watch?t=235s&v=FG75fM1klQ0" %}
 
 2. Write a program such that when given a non-negative number input, output whether or not if the number is 2 away from a multiple of 10.
 
-(Insert Video Here)
+{% embed url="https://www.youtube.com/watch?t=451s&v=FG75fM1klQ0" %}
 
 3. Write a program that takes a String object as an input. If the value of the input is `"Saturday"` or `"Sunday"`, output `"Yay, it is the weekend!"`. Otherwise output `"Boo, it is not the weekend ..."`.
 
-(Insert Video Here)
+{% embed url="https://www.youtube.com/watch?t=605s&v=FG75fM1klQ0" %}
 
 4. Given the following menu of food items and their prices, output the total cost of a meal if the user inputted the values for their choices of food item, side item, and a drink.
 
