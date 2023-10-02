@@ -2,7 +2,7 @@
 
 ## Python & Data
 
-In Python, all built-in data that can be used are all considered as objects. The concept of objects will be covered in [a _future chapter_](../../04-object-oriented-programming/class-and-objects.md)_._ Due to such concept, we must understand the concept of **mutability**.
+In Python, all built-in data that can be used are all considered as objects. The concept of objects will be covered in [a _future chapter_](../../04-object-oriented-programming/class-and-objects-definitions.md)_._ Due to such concept, we must understand the concept of **mutability**.
 
 ### Immutability & Mutability
 
