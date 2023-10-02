@@ -33,15 +33,16 @@ _Similar concepts: methods, subroutines and procedures_
 
 ```python
 def functionName(arg1, arg2, arg3):
-    ''' function docString: state purpose here
-
-    arguments:
-    -- arg1 : explanation
-    -- arg2 : explanation
-    -- arg3 : explanation
-
-    return:
-    -- value : explanation
+    # docStrings for a function is created with triple-quotation marks
+    ''' short + sweet single line explanation of what the function does
+    
+    Args:
+        arg1: description, mention datatype
+        arg2: description, mention datatype
+        arg3: description, mention datatype
+    
+    Returns:
+        the datatype of the returned object, describe what it represents too
     '''
 
     # write code inside the function here
@@ -49,6 +50,18 @@ def functionName(arg1, arg2, arg3):
     return value
 # end of functionName()
 ```
+
+**How to use docstrings**&#x20;
+
+1. Write a short single sentence on what the function does
+2. List each arguments and describe what they are and the datatype
+3.
+
+{% hint style="info" %}
+A docstring should give enough information to write a call to the function without reading the function’s code. The docstring should describe the function’s calling syntax and its semantics, but generally not its implementation details, unless those details are relevant to how the function is to be used. ([**Source**](https://google.github.io/styleguide/pyguide.html#383-functions-and-methods))
+{% endhint %}
+
+**Function Rules:**
 
 * `def` is the keyword designated to help us **define** a custom function
 * a function must have a callable name … it is recommended to use name that is not [built-in function](https://docs.python.org/3/library/functions.html) or [keywords](https://www.tutorialspoint.com/What-are-Reserved-Keywords-in-Python) for Python.
@@ -59,15 +72,15 @@ def functionName(arg1, arg2, arg3):
 **Let’s create an example function for the area of a circle.**
 
 ```python
-def areaCircle(radius, pi):
-    ''' areaCirlce() is a function that calculates the area of a circle
+def areaCircle(radius, pi=3.14):
+    ''' calculates the area of a circle
 
     arguments:
-    -- radius : floating point value
-    -- pi : floating point value
+        radius : represents the radius value of a circle, floating point value
+        pi : takes in a pi value, assumed to be 3.14 if not provided, floating point value
 
     return:
-    -- area : the resulting area from the given arguments
+        an integer describing the caluculated area
     '''
 
     area = pi * (radius ** 2)

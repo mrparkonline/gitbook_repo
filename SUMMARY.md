@@ -38,6 +38,7 @@
     * [Iterable Functions w/ For Loops](02-programming-in-python/iterations/iterable-functions-w-for-loops.md)
   * [Defining Functions](02-programming-in-python/defining-functions/README.md)
     * [Functions](02-programming-in-python/defining-functions/functions.md)
+    * [main() Function](02-programming-in-python/defining-functions/main-function.md)
     * [print() vs return](02-programming-in-python/defining-functions/print-vs-return.md)
     * [Pre-determined Arguments](02-programming-in-python/defining-functions/pre-determined-arguments.md)
     * [Nested Functions](02-programming-in-python/defining-functions/nested-functions.md)
