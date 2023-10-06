@@ -47,3 +47,6 @@
 
 _Coming soon._
 
+## VS Code Extended
+
+{% embed url="https://www.youtube.com/watch?v=heXQnM99oAI" %}
