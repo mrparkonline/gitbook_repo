@@ -106,6 +106,7 @@
   * [Iterations](java-essentials-ics3u/iterations/README.md)
     * [While Loops](java-essentials-ics3u/iterations/while-loops.md)
     * [For Loop](java-essentials-ics3u/iterations/for-loop.md)
+    * [Exercises](java-essentials-ics3u/iterations/exercises.md)
   * [Static Methods](java-essentials-ics3u/static-methods.md)
   * [Collection](java-essentials-ics3u/collection/README.md)
     * [Arrays](java-essentials-ics3u/collection/arrays.md)
