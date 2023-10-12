@@ -1,5 +1,9 @@
 # List Basics
 
+{% embed url="https://www.youtube.com/watch?index=17&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&t=898s&v=RvRKT-jXvko" %}
+Lesson on Lists from MIT
+{% endembed %}
+
 **Lists** are a collection data item values.
 
 * List is a built-in data type in Python 3

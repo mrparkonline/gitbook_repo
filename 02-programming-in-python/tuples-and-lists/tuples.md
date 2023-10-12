@@ -1,5 +1,9 @@
 # Tuples
 
+{% embed url="https://www.youtube.com/watch?index=17&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&t=69s&v=RvRKT-jXvko" %}
+Tuples and Lists ... you can just watch the tuple portion.
+{% endembed %}
+
 Strings and Lists are basic iterable data types that are very similar with key differences:
 
 * Strings only allow alphanumeric characters and special symbols to represent text

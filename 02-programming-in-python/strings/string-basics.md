@@ -6,6 +6,10 @@ description: >-
 
 # String Basics
 
+{% embed url="https://www.youtube.com/watch?index=11&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&t=79s&v=SE4P7IVCunE" %}
+Lesson on Strings from MIT
+{% endembed %}
+
 ## Strings <a href="#strings" id="strings"></a>
 
 Strings are a data type in Python 3 that represent sequence of alphanumeric characters and special symbols. Strings will be enclosed with either `'single'` or `"double"` quotations marks to denote them as strings. You cannot mix match the quotations.
