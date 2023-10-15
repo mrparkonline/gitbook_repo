@@ -1,6 +1,6 @@
 # Exercises
 
-(insert video here)
+{% embed url="https://www.youtube.com/watch?v=G7KFxNh5Gew" %}
 
 1. **Factorial Calculation:**&#x20;
 
@@ -16,13 +16,13 @@ The factorial function `(symbol: !)` says to multiply all whole numbers from our
 * `1! = 1`
 {% endhint %}
 
-(insert video here)
+{% embed url="https://www.youtube.com/watch?v=bxmbYVKgNUI" %}
 
 2. **Sum of Numbers:**&#x20;
 
 Write a program that calculates the sum of all integers from 1 to N, where N is a user-entered positive integer.
 
-(insert video here)
+{% embed url="https://www.youtube.com/watch?v=lVwQwc7nZc8" %}
 
 3. **Longest Name:**
 
@@ -64,7 +64,7 @@ Meredith
 {% endtab %}
 {% endtabs %}
 
-(insert video here)
+{% embed url="https://www.youtube.com/watch?v=L0Xzodw0gGw" %}
 
 4. **Prime Number Checker:**&#x20;
 

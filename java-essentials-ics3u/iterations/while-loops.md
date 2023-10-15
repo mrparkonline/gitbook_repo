@@ -2,6 +2,8 @@
 
 Loops are used in programming to repeat the execution of code instead of writing the line code of over and over again.
 
+{% embed url="https://www.youtube.com/watch?v=sKSIrz__d-M" %}
+
 ### A Code Example
 
 ```java
