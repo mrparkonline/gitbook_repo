@@ -80,7 +80,7 @@ Create a program that checks whether a given number is prime or not.
 _Some examples:_ `2, 3, 5, 7, 11, 13`
 {% endhint %}
 
-(insert video here)
+{% embed url="https://www.youtube.com/watch?v=YOxqzHX7_88" %}
 
 5. **Reverse a Number:**&#x20;
 
