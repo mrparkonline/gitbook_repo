@@ -78,7 +78,8 @@ By using some sort of a counting variable, you get to control the number of iter
 ### Using a boolean variable to control when to end a while loop
 
 ```java
-String user_input;
+Scanner in = new Scanner(System.in);
+String user_input = ""; // Declare an empty string
 boolean loop = true;
 
 while (loop == true) {
@@ -88,7 +89,7 @@ while (loop == true) {
     System.out.println("Would you like to end the loop? (Yes/No).");
     user_input = in.nextLine();
     if (user_input.equals("Yes")) {
-        loop = False;
+        loop = false;
     }
 }
 ```
