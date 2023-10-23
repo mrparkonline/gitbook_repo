@@ -59,4 +59,6 @@ A static method is a method that belongs to the class, not to an instance of the
 ## Static Method Creation Philosophy
 
 * **Clean Code:** We want organize a solution to problem or a part of a problem into a single function
-* **Algorithms:** Without functions, we cannot express algorithms properly
+* **Algorithms:** Without methods, we cannot express algorithms properly
+* **Reusability:** The methods that we create can be imported or copied over to new programs to prevent re-coding same problems that has already been solved
+* **Single-Serving:** A method should not be solving multiple problems or have multiple algorithms represented. A method should be designed as a standalone program that is solving one problem
