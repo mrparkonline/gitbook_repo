@@ -121,3 +121,29 @@ for (int i = 0; i < nums.length; i++) {
     System.out.println("nums at " + i + " is: " + nums[i]);
 }
 ```
+
+## String Object to a Character Array
+
+```java
+// Example
+String text = "Hello!"
+char[] example = text.toCharArray()
+
+// example now contains {'H', 'e', 'l', 'l', 'o', '!'}
+```
+
+In Java, `.toCharArray()` method converts the given string into a sequence of characters. The returned array length is equal to the length of the string.
+
+## Character Array to String Object
+
+```java
+// Example
+
+char[] example2 = {'W', 'o', 'r', 'l', 'd'}
+
+String text2 = new String(example2);
+
+// text2 is now "World"
+```
+
+By creating a new string similar to creating a new `scanner` and providing a Character Array as an input, you can create a new string.

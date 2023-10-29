@@ -113,7 +113,7 @@
     * [Arrays](java-essentials-ics3u/collection/arrays.md)
     * [ArrayList](java-essentials-ics3u/collection/arraylist.md)
     * [For Each Loop](java-essentials-ics3u/collection/for-each-loop.md)
-    * [Exercises](java-essentials-ics3u/collection/exercises.md)
+    * [Exercise Questions](java-essentials-ics3u/collection/exercise-questions.md)
   * [Static Methods](java-essentials-ics3u/static-methods.md)
   * [Java Output Formatting](https://www.baeldung.com/java-printstream-printf)
   * [Java Style Guide](https://google.github.io/styleguide/javaguide.html)
