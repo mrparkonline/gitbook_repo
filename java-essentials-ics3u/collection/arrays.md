@@ -1,5 +1,7 @@
 # Arrays
 
+{% embed url="https://www.youtube.com/watch?v=8hI1pUqsjwI" %}
+
 Array is a data structure that allows you to store a collection of elements of the same data type.&#x20;
 
 It provides a way to group multiple values under a single variable name, making it easier to manage and manipulate data.
@@ -147,3 +149,38 @@ String text2 = new String(example2);
 ```
 
 By creating a new string similar to creating a new `scanner` and providing a Character Array as an input, you can create a new string.
+
+## Printing an Array
+
+_We cannot simply print an array within_ **`System.out.println()`**_. We must convert it to a_ **`string`** _first._
+
+### Using `Arrays.toString()`
+
+```java
+// Example using Arrays.toString()
+
+import java.util.Arrays; // 1. Import Your Arrays Library
+
+class Main {
+    public static void main(String[] args) {
+        int[] nums = {3,1,4,1,5,9}; // Explicit integer array
+        String str_nums = Arrays.toString(nums); // Converting int array to string
+        
+        String hello = "Hello, World!";
+        char[] an_array = hello.toCharArray(); // converting hello to character array
+        
+        String str_array = Arrays.toString(an_array); // Making a printable char array
+        
+        System.out.println("Our nums: " + str_nums);
+        System.out.println("Our char array: " + str_array); 
+    }
+}
+```
+
+**Output:**
+
+```
+Our nums: [3, 1, 4, 1, 5, 9]
+Our char array: [H, e, l, l, o, ,,  , W, o, r, l, d, !]
+```
+

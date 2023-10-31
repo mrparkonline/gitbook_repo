@@ -1,5 +1,7 @@
 # ArrayList
 
+{% embed url="https://www.youtube.com/watch?v=TZoIFgl-B4A" %}
+
 An ArrayList in Java is a dynamic array that can hold elements of any data type.
 
 Unlike a static array in Java, an **ArrayList can be resized dynamically.** This means that we can add and remove values from an ArrayList.
