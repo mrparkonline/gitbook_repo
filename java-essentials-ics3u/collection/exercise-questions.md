@@ -34,7 +34,7 @@ After creating a random array of integers, write a program that can sort it from
 _Arraylists have the ability sort by using the method_ `.sort()`
 {% endhint %}
 
-(Insert Video)
+{% embed url="https://www.youtube.com/watch?v=ld59OBLhR-0" %}
 
 4. **List of Factors**
 
