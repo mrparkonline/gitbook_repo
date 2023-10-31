@@ -112,3 +112,26 @@ System.out.println(nums.size()); // outputs: 3
 ```
 
 We can use → `.size()` to determine the number of elements in an ArrayList.
+
+## ArrayLists are printable!
+
+```java
+// Example
+
+ArrayList<String> cars = new ArrayList<String>();
+
+cars.add("Honda");
+cars.add("Toyota");
+cars.add("Mercedes");
+cars.add("Ford");
+
+System.out.println("Our car brands: " + cars);
+```
+
+**Output:**
+
+```
+Our car brands: [Honda, Toyota, Mercedes, Ford]
+```
+
+As long as the ArrayList contains primitive equivalent wrapper class items, we can simply print the ArrayList within **`System.out.println()`**.
