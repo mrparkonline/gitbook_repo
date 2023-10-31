@@ -1,12 +1,12 @@
 # Exercise Questions
 
-(Insert Video Here)
+{% embed url="https://www.youtube.com/watch?v=NWaRIXnZsSA" %}
 
 1. **Vowel Counter**
 
 Assume that only `"aeiou"` are your vowels, create a program that counts the number of vowels in a given String.
 
-(Insert Video Here)
+{% embed url="https://www.youtube.com/watch?v=R35lncuOg8w" %}
 
 2. &#x20;**Palindrome Checker**
 
@@ -20,7 +20,7 @@ Write a program that checks if the given string is a [palindrome](https://www.go
 `tacodog` is **not** a palindrome
 {% endhint %}
 
-**(Insert Video)**
+{% embed url="https://www.youtube.com/watch?v=HtzJHwCEz4w" %}
 
 3. **Sort an Array**
 
