@@ -50,7 +50,7 @@ String[] myArray1 = {"A", "B", "C", "D"};
 
 ## Mutability
 
-Mutable means that the object has the ability of an object to be changed after it is created.
+Mutable means that the object has the ability to change without recreation.
 
 An immutable data type can only be changed by having their variables reassigned to a new value.
 
