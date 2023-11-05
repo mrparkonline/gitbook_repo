@@ -30,8 +30,6 @@ After creating a random array of integers, write a program that can sort it from
 **Example:**
 
 `{3,1,4,1,5,9}` becomes `{1,1,3,4,5,9}`
-
-_Arraylists have the ability sort by using the method_ `.sort()`
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=ld59OBLhR-0" %}
