@@ -42,12 +42,6 @@ Create a program that creates an ArrayList of factors of a given inputted intege
 
 (Insert Video)
 
-5. **Median**
-
-Create a program that takes any number of integer inputs until the user types in `EXIT`. Your program should then calculate [**median**](https://www.mathsisfun.com/median.html) of the dataset.
-
-(Insert Video)
-
-6. **Remove Duplicates**
+5. **Remove Duplicates**
 
 Create a program that analyzes an ArrayList of numbers and removes any duplicates within the list except for the very first occurrence of that value.
