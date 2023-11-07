@@ -38,7 +38,7 @@ After creating a random array of integers, write a program that can sort it from
 
 Create a program that creates an ArrayList of factors of a given inputted integer.
 
-(Insert Video)
+{% embed url="https://www.youtube.com/watch?v=nGWHRM5cfis" %}
 
 5. **Remove Duplicates**
 
