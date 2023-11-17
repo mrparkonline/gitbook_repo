@@ -178,3 +178,10 @@ def r_factorial2(num, tail=1):
         return r_factorial(num-1, tail * num)
 ```
 
+#### Why is the tail one better?
+
+The tail-recursive version `r_factorial2` is considered better because it benefits from tail call optimization in Python, converting the recursion into an iterative loop and avoiding the buildup of stack frames.&#x20;
+
+This leads to improved memory efficiency and reduces the risk of stack overflow errors for large input values.&#x20;
+
+In contrast, the non-tail-recursive version `r_factorial1` does not optimize tail calls and requires storing intermediate results on the call stack, making it less memory-efficient, particularly for large inputs.
