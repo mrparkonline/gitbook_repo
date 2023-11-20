@@ -1,5 +1,9 @@
 # Recursion
 
+{% embed url="https://www.youtube.com/watch?end=533&start=147&v=WPSeyjX1-4s" %}
+Recursion and Dictionaries from MIT Courseware
+{% endembed %}
+
 ## What is Recursion?
 
 Recursion is a programming and mathematical concept where a function or a process calls itself as a subroutine or part of its own execution. In other words, it's a technique where a problem is solved by breaking it down into smaller instances of the same problem.
@@ -177,6 +181,12 @@ def r_factorial2(num, tail=1):
     else:
         return r_factorial(num-1, tail * num)
 ```
+
+## Dynamic Programming & Recursion
+
+{% embed url="https://www.youtube.com/watch?list=PLZES21J5RvsHOeSW9Vrvo0EEc2juNe3tX&v=OQ5jsbhAv_M" %}
+
+The relationship between recursion and dynamic programming often lies in the fact that dynamic programming solutions can be implemented using recursion with memoization. In the top-down approach, a recursive function is used to solve subproblems, and the results are stored (memoized) to avoid redundant computations. This combines the benefits of recursion's natural problem decomposition with dynamic programming's efficiency in avoiding duplicated work.
 
 #### Why is the tail one better?
 
