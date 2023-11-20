@@ -1,5 +1,7 @@
 # Big-O Notation
 
+{% embed url="https://www.youtube.com/watch?index=11&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&v=RGuJga2Gl_k" %}
+
 ## Algorithm Complexity of Time & Space <a href="#algorithm-complexity-of-time--space" id="algorithm-complexity-of-time--space"></a>
 
 As computer scientists started to develop various algorithms for a solutions, they needed a way to classify the effectiveness of their algorithms, and they also required a way to prove that a new algorithm is better than the old by mathematical proof & analysis.
