@@ -1,5 +1,7 @@
 # Binary Search
 
+{% embed url="https://www.youtube.com/watch?v=KXJSjte_OAI" %}
+
 <figure><img src="https://www.mathwarehouse.com/programming/images/binary-vs-linear-search/binary-and-linear-search-animations.gif" alt=""><figcaption><p><a href="https://mathwarehouse.com/programming/gifs/binary-vs-linear-search.php">Image Source</a></p></figcaption></figure>
 
 A searching algorithm that is designed to search from a sorted list.
