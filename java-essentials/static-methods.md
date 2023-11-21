@@ -6,7 +6,7 @@ A method is a block of code that performs a specific task or operation.
 
 ```java
 // Format
-public static return_type method_name(parameter_list) {
+public static return_type methodName(param_datatype parameter_list) {
     // Method body (code to be executed)
     // ...
     return return_value; // Optional, depending on the return type
