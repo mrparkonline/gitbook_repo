@@ -1,5 +1,7 @@
 # Static Methods
 
+{% embed url="https://www.youtube.com/watch?v=G3MZg5FgZkg" %}
+
 A method is a block of code that performs a specific task or operation.
 
 ```java

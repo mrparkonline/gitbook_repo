@@ -92,6 +92,8 @@ Direct recursion involves a function calling itself directly, while indirect rec
 
 ### Sum of All Numbers Below N.
 
+{% embed url="https://www.youtube.com/watch?v=3RejfYPSQI4" %}
+
 {% tabs %}
 {% tab title="Code" %}
 ```python
