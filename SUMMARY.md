@@ -125,5 +125,6 @@
     * [Exercise Questions](java-essentials/collection/exercise-questions.md)
   * [Static Methods](java-essentials/static-methods.md)
   * [Randomness in Java](java-essentials/randomness-in-java.md)
+  * [Delayed Output in Java](java-essentials/delayed-output-in-java.md)
   * [Java Output Formatting](https://www.baeldung.com/java-printstream-printf)
   * [Java Style Guide](https://google.github.io/styleguide/javaguide.html)
