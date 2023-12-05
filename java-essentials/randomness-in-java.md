@@ -1,5 +1,7 @@
 # Randomness in Java
 
+{% embed url="https://www.youtube.com/watch?v=isdwylC8J5E" %}
+
 In computer programming, true randomness is challenging to achieve because computers are fundamentally deterministic machines. Pseudorandom number generators (PRNGs) are used to simulate randomness by generating sequences of numbers that exhibit statistical properties similar to those of truly random sequences. The key distinction is that PRNGs are deterministic algorithms, meaning that the same initial state (seed) will produce the same sequence of numbers.
 
 ## How to Generate Randomness in Java
