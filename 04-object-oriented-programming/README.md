@@ -1,5 +1,7 @@
 # 🦆 04 - Object Oriented Programming
 
+{% embed url="https://www.youtube.com/watch?index=13&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V&v=e4fwY9ZsxPw" %}
+
 **Object Oriented Programming (OOP)**
 
 * Programming practice to design modular reusable software systems
