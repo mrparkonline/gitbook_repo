@@ -2,6 +2,25 @@
 
 Due to the code containing a lot of intricate content. The contains two static methods that can be implemented into programs to help delay string outputs.
 
+## Adding a Simple Delay
+
+```java
+/**
+* This method adds a milliseconds delay to your code.
+* @param ms is an integer value representing milliseconds
+*/
+public static void delay(int ms) {
+    try {
+        Thread.sleep(ms);
+    } catch (InterruptedException e) {
+        // Handle the exception if needed
+        e.printStackTrace();
+    }
+}
+```
+
+This method can be called upon to add a delay. 1000 ms will be a 1 second delay.
+
 ## Two Methods
 
 ### Method 1: `delayedMessage()`
