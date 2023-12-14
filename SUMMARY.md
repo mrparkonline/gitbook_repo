@@ -119,6 +119,7 @@
   * [Java Type Casting](https://www.programiz.com/java-programming/typecasting)
   * [Strings](java-essentials/strings.md)
   * [Collection](java-essentials/collection/README.md)
+    * [Strings](java-essentials/collection/strings.md)
     * [Arrays](java-essentials/collection/arrays.md)
     * [ArrayList](java-essentials/collection/arraylist.md)
     * [For Each Loop](java-essentials/collection/for-each-loop.md)
