@@ -35,7 +35,7 @@ The **`__str__()`** method returns a human-readable, or informal, string represe
 
 The **`__repr__()`** method returns a more information-rich, or official, string representation of an object. This is often called when your custom object needs to be displayed within another or any other sitution where `__str__()` is not used.
 
-### Fix
+### Fixing out classes
 
 ```python
 class Employee: 
@@ -64,5 +64,40 @@ Employee(name = employeeName, age = 20, id = 1101)
 ```
 
 ## Other Base Functions to Override.
+
+### Addition, Subtraction, Multiplication, Division
+
+```python
+class Point:
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+    
+    def __add__(self, other_point):
+        return Point(self.x + other_point.x, self.y + other_point.y)
+
+    def __str__(self):
+        return f"Point({self.x}, {self.y})"
+
+p1 = Point(1,2)
+p2 = Point(3,4)
+p3 = p1 + p2 # This is possible due to the override of __add__()
+print(p3) # Outputs Point(4,6)
+```
+
+The built-in arithmetic operators can be overridden to allow your custom class objects to interact with them. _The subtraction, multiplication, and division operators will be overridden similar to the addition method above._
+
+```
+__add__() --> addition operator (+)
+__sub__() --> addition operator (-)
+__mul__() --> addition operator (*)
+__div__() --> addition operator (/)
+```
+
+### Contain - The `in` operator
+
+```
+// Some code
+```
 
 TBC
