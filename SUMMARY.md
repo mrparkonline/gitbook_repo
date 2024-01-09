@@ -81,6 +81,7 @@
   * [Polymorphism](04-object-oriented-programming/polymorphism.md)
   * [Inheritance & Overriding](04-object-oriented-programming/inheritance-and-overriding.md)
   * [Override Magic Methods](04-object-oriented-programming/override-magic-methods.md)
+  * [Case Study: Static 1D Array From Java](04-object-oriented-programming/case-study-static-1d-array-from-java.md)
   * [Abstract Data Types](04-object-oriented-programming/abstract-data-types.md)
   * [Case Study: Animal, Dog, Cat Class](04-object-oriented-programming/case-study-animal-dog-cat-class.md)
   * [Case Study: Book Class](04-object-oriented-programming/case-study-book-class.md)
