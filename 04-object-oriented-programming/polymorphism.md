@@ -14,7 +14,7 @@ One type of Polymorphism called **`Overloading`** is not a concept that is avail
 
 The two main types of polymorphism in Python is:
 
-1. Different Classes, Same Named Methods, but different behaviour.
+1. Different Classes, Same Named Methods, same -or- different behaviour.
 2. [**Overriding** & **Inheritance**](inheritance-and-overriding.md) **(Next Page)**
 
 ## Basic Method Polymorphism
