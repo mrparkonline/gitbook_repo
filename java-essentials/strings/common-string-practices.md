@@ -1,6 +1,6 @@
-# Strings
+# Common String Practices
 
-Strings are not technically part of the Collection set, but it behaves very similar. Consider String objects as a collection of characters.
+Strings are objects that represents a combination of characters.
 
 ## Joining Two Strings
 
