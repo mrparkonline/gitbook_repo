@@ -92,3 +92,30 @@ if (num == 42) {
 > The bottom most else statement is only related to our second if statement. The program will not skip to the else statement if the `weather.equals("Yes")` evaluates to false.
 >
 > The program will output: `It is just a number.` if the variable `num` was not 42.
+
+## Nested Conditionals
+
+```java
+if (num > 0) {
+    System.out.println("The number is positive.");
+            
+    if (num % 2 == 0) {
+        System.out.println("And it's even.");
+    } else {
+        System.out.println("And it's odd.");
+    }
+} else if (num < 0) {
+    System.out.println("The number is negative.");
+} else {
+    System.out.println("The number is zero.");
+}
+```
+
+**Nested conditional statements** in Java are simply conditional statements within another conditional statement.
+
+_Let's assume that variable `num` has a value `45`._
+
+* We first check if `num` is greater than `0`.&#x20;
+  * If it is, we print that the number is positive, then we check if it's even or odd using another <mark style="color:yellow;">**nested**</mark> `if-else` statement.
+* If `num` is not greater than `0`, we move to the `else if` part and check if it's less than `0`. If it is, we print that the number is negative.
+* If `num` is neither greater than `0` nor less than `0`, it must be `0`, so we print that the number is zero.
