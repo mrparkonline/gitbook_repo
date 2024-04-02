@@ -50,3 +50,17 @@ String word = "Hello!"
 int index1 = word.indexOf('l'); // index1 will be 2
 int index2 = word.indexOf("lo"); // index2 will be 3
 ```
+
+### Lowercase and Uppercase String
+
+You can convert a `String` to have all its characters be either lowercase or uppercase.
+
+```java
+// Lowercase
+String word1 = "HELLO!!";
+word1 = word1.toLowerCase(); // word1 is now hello!
+
+// Uppercase
+String word2 = "goodBye!";
+word2 = word2.toUpperCase(); // word2 is now GOODBYE!
+```
