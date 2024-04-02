@@ -8,8 +8,8 @@
 // Characters Examples
 char myGrade = 'B';
 char myVar1 = 65; // Contains A 
-myVar2 = 66; // Contains B
-myVar3 = 67; // Contains C
+char myVar2 = 66; // Contains B
+char myVar3 = 67; // Contains C
 ```
 
 **`String`** is a built-in class in Java where we can create `String` objects. Objects will also have methods which provides access to `String` class features.
