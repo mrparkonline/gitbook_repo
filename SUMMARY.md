@@ -112,6 +112,7 @@
     * [If Else Statements](java-essentials/conditionals/if-else-statements.md)
     * [Making Multiple Decisions](java-essentials/conditionals/making-multiple-decisions.md)
     * [Using Switch](java-essentials/conditionals/using-switch.md)
+    * [Flowchart Symbols](https://www.programiz.com/article/flowchart-programming)
     * [Exercise Questions](java-essentials/conditionals/exercise-questions.md)
   * [Iterations](java-essentials/iterations/README.md)
     * [While Loops](java-essentials/iterations/while-loops.md)

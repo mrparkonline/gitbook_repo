@@ -66,3 +66,47 @@ b = b.replace(" ", "");
         
 System.out.println(a + " " + b); // Outputs Hi WORLD
 ```
+
+## Using a Loop on a String
+
+Since `Strings` are indexable, we can utilize both a while loop and for loop to traverse individual characters one-by-one.
+
+```java
+// While Loop Method
+String word = "Hello!";
+int i = 0;
+
+while (i < word.length()) {
+    System.out.println(word + " at Index I is: " + word.charAt(i));
+
+    i++;
+}
+
+/* Outputs:
+Hello! at Index I is: H
+Hello! at Index I is: e
+Hello! at Index I is: l
+Hello! at Index I is: l
+Hello! at Index I is: o
+Hello! at Index I is: !
+*/
+```
+
+```java
+// For Loop Method
+String word = "Hello!";
+
+for (int i = 0; i < word.length(); i++) {
+    System.out.println(word + " at Index I is: " + word.charAt(i));
+}
+
+/* Outputs:
+Hello! at Index I is: H
+Hello! at Index I is: e
+Hello! at Index I is: l
+Hello! at Index I is: l
+Hello! at Index I is: o
+Hello! at Index I is: !
+*/
+```
+
