@@ -123,6 +123,7 @@
     * [Common String Practices](java-essentials/strings/common-string-practices.md)
     * [For Each Loop](java-essentials/strings/for-each-loop.md)
     * [String Formatting](java-essentials/strings/string-formatting.md)
+    * [Java Special Characters](https://www.w3schools.com/java/java\_strings\_specchars.asp)
   * [Collection](java-essentials/collection/README.md)
     * [Arrays](java-essentials/collection/arrays.md)
     * [ArrayList](java-essentials/collection/arraylist.md)
