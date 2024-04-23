@@ -14,4 +14,4 @@ Therefore the sentence: ‘the result from the previous iteration will be used f
 
 * While Loops
 * For Loop
-* [For-Each Loop (Studied in the Collection Unit)](../strings/for-each-loop.md)
+* [For-Each Loop (Studied in the Collection Unit)](../collection/for-each-loop.md)

@@ -113,6 +113,36 @@ System.out.println(nums.size()); // outputs: 3
 
 We can use → `.size()` to determine the number of elements in an ArrayList.
 
+6. **Check if a value exists in an ArrayList**
+
+```java
+// Does a value exist in an arraylist?
+ArrayList<Integer> nums = new ArrayList<Integer>();
+nums.add(3); nums.add(1); nums.add(4);
+
+System.out.println(nums.contains(1)); // outputs: true; 1 exists in nums
+System.out.println(nums.contains(10)); // outputs: false; 10 does not exist in nums
+```
+
+We can use → `.contains()` to determine if a value exists in an ArrayList.
+
+7. **Determine the index of a value in an ArrayList**
+
+```java
+// Does a value exist in an arraylist?
+ArrayList<Integer> nums = new ArrayList<Integer>();
+nums.add(3); nums.add(1); nums.add(4); nums.add(1); nums.add(5); nums.add(9);
+
+System.out.println(nums.indexOf(4)); // Returns 2 (4 is at index 2)
+System.out.println(nums.indexOf(1)); // Returns 1 (The first location of 1)
+System.out.println(nums.indexOf(10)); // Returns -1 (10 DNE)
+System.out.println(nums.lastIndexOf(1)); // Returns 3 (Last occurrence of 1)
+```
+
+We can use → `.indexOf()` to determine an index of a value in an ArrayList. Returns -1 if not found.
+
+We can use → `.lastIndexOf()` to determine an index of a value in an ArrayList from the right. Returns -1 if not found.
+
 ## ArrayLists are printable!
 
 ```java
