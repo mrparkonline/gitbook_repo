@@ -184,3 +184,21 @@ Our nums: [3, 1, 4, 1, 5, 9]
 Our char array: [H, e, l, l, o, ,,  , W, o, r, l, d, !]
 ```
 
+## String to String Array using `.split()`
+
+```java
+// .split() --> Splitting a string based on a pattern
+String digits = "1,2,3,4,5,6,7";
+String[] converted = digits.split(",");
+       
+System.out.println(Arrays.toString(converted));
+// converted now contains --> [1, 2, 3, 4, 5, 6, 7]
+// Note that converted has string based digits ... "2" not integer 2
+
+String word = "Apple Banana Cucumber";
+String[] basket = word.split(" ");
+System.out.println(Arrays.toString(basket));
+// basket now contains --> [Apple, Banana, Cucumber]
+```
+
+Purpose of `.split()` is to locate separating patterns such as commas or whitespace in a string to obtain a collection of data.
