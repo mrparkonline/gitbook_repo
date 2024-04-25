@@ -9,7 +9,7 @@ In object-oriented programming (OOP), inheritance is a mechanism that allows one
 
 James Whitcomb Riley\
 \
-_It is not always required or even recommended to inheritance, unless you are 100% sure you are required to do so._
+_It is not always required or even recommended to use inheritance, unless you are 100% sure you are required to do so._
 {% endhint %}
 
 ## Key Concepts of Inheritance
