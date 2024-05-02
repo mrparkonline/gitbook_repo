@@ -58,6 +58,42 @@ nums.add(3); nums.add(1); nums.add(4);
 
 We can use → .add() to add a value to an ArrayList to the END OF THE ARRAYLIST.
 
+_What happens if you want to add a value at a certain index?_
+
+```java
+// Add an item to an ArrayList at a certain index
+ArrayList<Integer> nums = new ArrayList<Integer>();
+nums.add(3); nums.add(1); nums.add(4);
+
+// nums is currrently: [3, 1, 4]
+nums.add(3,1); // Adds 1 to the end of the list even though index is out of bounds; 
+// The provided index can only be from [0, current length of arraylist] 
+       
+nums.add(0, 0); // Adds 0 to the front of the list, shifts everything back 
+nums.add(2, 99); // Adds 99 at index 2; shifts everything from 2 onwards back by one.
+        
+//nums.add(100, 5); // Creates an error since the index is greater than the length.
+System.out.println(nums); // Outputs: [0, 3, 99, 1, 4, 1]
+```
+
+**`.add(int index, value)`** can be also be used to add values to your ArrayList at certain locations following the rules/concepts below:
+
+{% hint style="info" %}
+**Rule A: Valid Index Range**
+
+The index provided must be within the range of 0 to the size of the ArrayList (inclusive). If the index is outside this range, it will throw an `IndexOutOfBoundsException`.
+
+**Rule B:. Shift Existing Elements**
+
+When you add an element at a specific index, all elements at that index or greater are shifted one position to the right.
+
+**Rule C. Capacity Check and Resize**&#x20;
+
+If adding an element exceeds the current capacity of the ArrayList, it will automatically increase its capacity to accommodate the new element. This involves creating a new array with a larger capacity, copying the existing elements into the new array, and then adding the new element.
+
+[_More reading on ArrayList Sizing_](https://www.geeksforgeeks.org/internal-working-of-arraylist-in-java/)
+{% endhint %}
+
 2. **Grab a value from an ArrayList**
 
 ```java
