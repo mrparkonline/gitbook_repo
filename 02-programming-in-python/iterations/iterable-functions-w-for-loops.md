@@ -2,7 +2,7 @@
 
 We will be exploring more functions similar to `range()` where they also return an iterable sequence that we can iterate through with a for loop
 
-## 1. [`sorted()`](https://docs.python.org/3/library/functions.html#sorted) function <a href="#1-sortedhttpsdocspythonorg3libraryfunctionshtmlsorted-function" id="1-sortedhttpsdocspythonorg3libraryfunctionshtmlsorted-function"></a>
+## 1. [`sorted()`](https://docs.python.org/3/library/functions.html#sorted) function <a href="#id-1-sortedhttpsdocspythonorg3libraryfunctionshtmlsorted-function" id="id-1-sortedhttpsdocspythonorg3libraryfunctionshtmlsorted-function"></a>
 
 The `sorted()` function will return a sorted list in order from least to greatest from a sortable sequence.
 
@@ -74,7 +74,7 @@ Current Number: 2
 {% endtab %}
 {% endtabs %}
 
-## 2. [`enumerate()`](https://docs.python.org/3/library/functions.html#enumerate) function <a href="#2-enumeratehttpsdocspythonorg3libraryfunctionshtmlenumerate-function" id="2-enumeratehttpsdocspythonorg3libraryfunctionshtmlenumerate-function"></a>
+## 2. [`enumerate()`](https://docs.python.org/3/library/functions.html#enumerate) function <a href="#id-2-enumeratehttpsdocspythonorg3libraryfunctionshtmlenumerate-function" id="id-2-enumeratehttpsdocspythonorg3libraryfunctionshtmlenumerate-function"></a>
 
 The `enumerate()` function will pair the index for each item in the given sequence argument. This allow us to do a special type of for loop that involves [variable unpacking](https://www.geeksforgeeks.org/unpacking-a-tuple-in-python/).
 
@@ -136,7 +136,7 @@ for i, character in enumerate(word):
 {% endtab %}
 {% endtabs %}
 
-## 3. [`reversed()`](https://docs.python.org/3/library/functions.html#reversed) function <a href="#3-reversedhttpsdocspythonorg3libraryfunctionshtmlreversed-function" id="3-reversedhttpsdocspythonorg3libraryfunctionshtmlreversed-function"></a>
+## 3. [`reversed()`](https://docs.python.org/3/library/functions.html#reversed) function <a href="#id-3-reversedhttpsdocspythonorg3libraryfunctionshtmlreversed-function" id="id-3-reversedhttpsdocspythonorg3libraryfunctionshtmlreversed-function"></a>
 
 The `reversed()` is a simple function that reverses any given sequence.
 

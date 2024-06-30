@@ -4,5 +4,5 @@ description: >-
   journey properly.
 ---
 
-# 🧠 01 - Prerequisite Skills
+# 🧠 Prerequisite Skills
 
