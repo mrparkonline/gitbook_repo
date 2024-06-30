@@ -54,7 +54,7 @@ A static method is a method that belongs to the class, not to an instance of the
 
 #### Key Points
 
-* At this level of Java Programming, we are creating only a single class. This concept of "class" is part of a larger programming paradigm called "[**object oriented programming**](../../04-object-oriented-programming/)". This concept is not covered for ICS3U.
+* At this level of Java Programming, we are creating only a single class. This concept of "class" is part of a larger programming paradigm called "[**object oriented programming**](../../ics4u1-content-2023/04-object-oriented-programming/)". This concept is not covered for ICS3U.
 * In our **main class,** we design _**named methods**_ that are standalone containers of code that can solve single problems.
 * We must have both the **`public`** and **`static`** label on our custom methods.
 
