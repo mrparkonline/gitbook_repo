@@ -189,7 +189,7 @@ def numericInput(prompt: str) -> float:
     number1 = None
     while True:
         try:
-            user_input = input("Enter number 1:")
+            user_input = input(prompt)
             number1 = float(user_input)
             print(f"First Input: {number1}")
             return number1 # instead of break
@@ -258,7 +258,7 @@ def numericInput(prompt: str) -> float:
     number1 = None
     while True:
         try:
-            user_input = input("Enter number 1:")
+            user_input = input(prompt)
             number1 = float(user_input)
             print(f"First Input: {number1}")
             return number1 # instead of break
@@ -305,7 +305,7 @@ elif choice == "divide":
             result = number1 / number2
         except ZeroDivisionError:
             result = None
-            print(f"Since the variable number2 is a zero, there is no solution.")
+            print(f"Since the variable number2 is zero, there is no solution.")
 
 # Outputting the result
 if result is not None:
