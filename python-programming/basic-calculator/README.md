@@ -66,6 +66,12 @@ This Python program above is a direct translation of our program designed as a p
 * `int()` is a built-in function that converts a given argument[^3] into an integer.
 * `print()` is a built-in function that outputs text-based data (called a [_String_](#user-content-fn-4)[^4]) to the console.
 
+{% hint style="info" %}
+Why do we apply `int()` function on our `input()` function?
+
+The `input()` function will always read any data as a String-typed data. Therefore, we cannot treat the inputted value to invoke a numeric behavior (_aka apply arithmetic operations_). For the Python interpreter to properly understand how to use the given input, we must converted the inputs to integers for this situation.
+{% endhint %}
+
 Within our `print()` function, we are outputting formatted strings or "**f-strings**".
 
 `f-strings` are special types of strings that allow the direct values of variables embedded via curly braces `{}` and it maintains the format of the strings based on how the data was defined.
@@ -83,7 +89,15 @@ Within our `print()` function, we are outputting formatted strings or "**f-strin
 15 / 3 = 5
 </code></pre>
 
+### Connected Reading
 
+_Connected reading is a section dedicated to provide fundamental knowledge to the important aspects introduced in this page._
+
+* [ ] Definitions for Python ([link](https://mrparkonline.gitbook.io/guide-to-high-school-computer-science/ics4u1-content-2023/02-programming-in-python/python-basics))
+* [ ] F-strings and String Formatting ([link](https://mrparkonline.gitbook.io/guide-to-high-school-computer-science/ics4u1-content-2023/02-programming-in-python/python-basics/string-formatting))
+* [ ] Use of `int()` -> "Type Casting" ([link](https://mrparkonline.gitbook.io/guide-to-high-school-computer-science/ics4u1-content-2023/02-programming-in-python/python-basics/data-types#type-casting))
+* [ ] Input & Output to the Console ([link](https://mrparkonline.gitbook.io/guide-to-high-school-computer-science/ics4u1-content-2023/02-programming-in-python/python-basics/input-and-output-to-console))
+* [ ] Arithmetic Operators ([link](https://mrparkonline.gitbook.io/guide-to-high-school-computer-science/ics4u1-content-2023/02-programming-in-python/python-basics/working-with-numbers))
 
 [^1]: A feature that comes with the given programming language
 
