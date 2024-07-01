@@ -11,14 +11,6 @@ Build a simple Python program that can add, subtract, multiply, and divide two n
 * Do all the possible operations (add, subtract, multiply, divide) on the two numbers
 * Display the output
 
-### Extended Requirements
-
-* Put restrictions on the inputs so that the inputted values from the user are numeric
-* Ability to choose a desired operation (add, subtract, multiply, divide) from the user
-  * Put restrictions on the denominator when dividing
-* Execute the desired operation with the given inputs and store the result
-* Output the stored results back to the user
-
 ## Pseudocode of the Calculator
 
 {% hint style="info" %}
@@ -67,14 +59,36 @@ print(f"{number1} * {number2} = {result3}")
 print(f"{number1} / {number2} = {result4}")
 ```
 
+This Python program above is a direct translation of our program designed as a pseudocode.
+
+* The `#` symbol is used to create comments; a way to leave readable notes for the reader, but an ignored line of code by the Python Interpreter.
+* `input()` is a [built-in function](#user-content-fn-1)[^1] that reads a typed text within the console[^2].
+* `int()` is a built-in function that converts a given argument[^3] into an integer.
+* `print()` is a built-in function that outputs text-based data (called a [_String_](#user-content-fn-4)[^4]) to the console.
+
+Within our `print()` function, we are outputting formatted strings or "**f-strings**".
+
+`f-strings` are special types of strings that allow the direct values of variables embedded via curly braces `{}` and it maintains the format of the strings based on how the data was defined.
+
 #### Example Program Output
 
-```
-Enter number1: 5
-Enter number2: 8
+<pre><code><strong>[INPUT]
+</strong><strong>Enter number1: 5
+</strong>Enter number2: 8
 
+[OUTPUT]
 15 + 3 = 18
 15 - 3 = 12
 15 * 3 = 45
 15 / 3 = 5
-```
+</code></pre>
+
+
+
+[^1]: A feature that comes with the given programming language
+
+[^2]: The console refers to the interface where you interact with the Python interpreter
+
+[^3]: An argument is data passed onto a function within the function's brackets so that the function can process the given data and generate/return a new result
+
+[^4]: In Python, strings are immutable sequences of characters enclosed within single quotes (`'...'`), double quotes (`"..."`), triple single quotes (`'''...'''`), or triple double quotes (`"""..."""`).
