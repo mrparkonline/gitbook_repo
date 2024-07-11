@@ -13,7 +13,7 @@ number1 = int(input("Enter number 1: "))
 number2 = int(input("Enter number 2: "))
 
 # Since we convert the inputs to integers, we cannot handle inputs with decimals.
-# There is no feature built-in to our to prevent non-numeric inputs at the moment.
+# There is no feature built-in to our code to prevent non-numeric inputs at the moment.
 
 # Operations
 result1 = number1 + number2
