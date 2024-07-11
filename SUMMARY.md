@@ -12,6 +12,7 @@
 * [🐍 Python Programming](python-programming/README.md)
   * [Basic Calculator](python-programming/basic-calculator/README.md)
     * [Improving the calculator](python-programming/basic-calculator/improving-the-calculator.md)
+    * [Exercise Set 1](python-programming/basic-calculator/exercise-set-1.md)
   * [Project 2](python-programming/project-2.md)
 * [⌨️ ICS4U1 Content (2023)](ics4u1-content-2023/README.md)
   * [🍎 02 - Programming In Python](02-programming-in-python/README.md)
