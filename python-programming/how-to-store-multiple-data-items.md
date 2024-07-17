@@ -8,6 +8,18 @@ There are many built-in data types (list, set, and dictionary) that can help us 
 
 We will be looking at 3 basic practices.
 
+{% hint style="info" %}
+_Where is this data stored?_
+
+In this chapter, our multiple items are temporarily stored within our program. When our program is done executing our code, we cannot have access to our data.
+
+This is called **non-persistent storage.**&#x20;
+
+If we do not need to remember our previous state of our program, we often store data (values stored in variables and such) into the RAM of our computer. The RAM allows a very quick retrieval of data when a program is running.
+
+If we want to save data from our program to be accessible without the program or we want to remember what happened in the previous execution, we would need to create an external file or create and use a database.
+{% endhint %}
+
 ### Option 1 - Using [lists](../02-programming-in-python/tuples-and-lists/)
 
 * [ ] Items are not consistent in data type
