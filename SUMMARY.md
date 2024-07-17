@@ -15,6 +15,8 @@
     * [Exercise Set 1](python-programming/basic-calculator/exercise-set-1.md)
     * [Exercise Set 2](python-programming/basic-calculator/exercise-set-2.md)
   * [Basic Password Generator](python-programming/basic-password-generator.md)
+  * [How to Store Multiple Data Items](python-programming/how-to-store-multiple-data-items.md)
+  * [Page](python-programming/page.md)
 * [⌨️ ICS4U1 Content (2023)](ics4u1-content-2023/README.md)
   * [🍎 02 - Programming In Python](02-programming-in-python/README.md)
     * [Python Basics](02-programming-in-python/python-basics/README.md)
