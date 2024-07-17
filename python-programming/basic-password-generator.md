@@ -14,6 +14,8 @@ Create a Python script that will generate a password with given parameters.
 3. Generate a password with the given constraints
 4. Output the generated password
 
+_We are ignoring input validations for this exercise._
+
 ## Python Translation
 
 ```python
@@ -39,7 +41,7 @@ size = int(input("Enter the size of the password: "))
 # Requirement 2: Set Password Criteria
 has_upper = input("Include uppercase letters? (Y/N): ")
 has_digit = input("Include numbers? (Y/N): ")
-has_special = input("Include uppercase letters? (Y/N): ")
+has_special = input("Include special characters? (Y/N): ")
 
 # processing
 # Step 1: Add in the respective options
@@ -61,6 +63,51 @@ while len(password) < size:
 
 # Requirement 3: Output the generated password
 print(f"The randomly generated password is: {password}")
+```
+
+### Code Explanation
+
+* **Imports**: The `random` module is imported to generate random characters and numbers.
+* **Character Sets**:
+  * `lowercase`: Contains ASCII values for lowercase letters (97-122).
+  * `uppercase`: Contains ASCII values for uppercase letters (65-90).
+  * `digits`: Contains ASCII values for digits (48-57).
+  * `special`: Contains ASCII values for special characters (33-47, 58-64, 91-96, 123-126).
+
+{% hint style="info" %}
+[What is ASCII?](https://en.wikipedia.org/wiki/ASCII#Printable\_characters)
+
+ASCII stands for American Standard Code for Information Interchange.
+
+ASCII is a character encoding standard that assigns numeric codes to represent characters. Each character, like letters ('A' to 'Z', 'a' to 'z'), digits ('0' to '9'), and special symbols, has a unique integer value in the [**ASCII table**](https://www.cs.cmu.edu/\~pattis/15-1XX/common/handouts/ascii.html).&#x20;
+
+By using the `chr()` function in Python, you can convert these integer values to their corresponding characters, allowing for text representation in digital communications and computing.
+{% endhint %}
+
+* **Initialization**:
+  * `password`: Starts as an empty string where the generated password will be stored.
+  * `options`: Initially set to `lowercase.copy()`, assuming every password will include lowercase letters.
+* **User Input**:
+  * `size`: User defines the length of the password.
+  * `has_upper`, `has_digit`, `has_special`: Users choose whether to include uppercase letters, digits, and special characters, respectively.
+* **Processing**:
+  * **Step 1**: Based on user input (`has_upper`, `has_digit`, `has_special`), appropriate character sets (`uppercase`, `digits`, `special`) are added to `options`.
+  * **Step 2**: A `while` loop continues until `password` reaches the desired length (`size`). In each iteration:
+    * `random.choice(options)` picks a random ASCII value from `options`.
+    * `chr()` converts the ASCII value to its corresponding character.
+    * The character is appended to `password`.
+* **Output**:
+  * Finally, the generated password (`password`) is displayed to the user.
+
+```
+# Example Input
+Enter the size of the password: 8
+Include uppercase letters? (Y/N): Y
+Include numbers? (Y/N): Y
+Include special characters? (Y/N): N
+
+# Example Output
+The randomly generated password is: qK5g8sHj
 ```
 
 ### General Password Tips
