@@ -14,6 +14,7 @@
     * [Improving the calculator](python-programming/basic-calculator/improving-the-calculator.md)
     * [Exercise Set 1](python-programming/basic-calculator/exercise-set-1.md)
     * [Exercise Set 2](python-programming/basic-calculator/exercise-set-2.md)
+    * [Streamlit Application #1](python-programming/basic-calculator/streamlit-application-1.md)
   * [Basic Password Generator](python-programming/basic-password-generator/README.md)
     * [Exercise Set 3](python-programming/basic-password-generator/exercise-set-3.md)
     * [Exercises Related to Math](python-programming/basic-password-generator/exercises-related-to-math.md)
