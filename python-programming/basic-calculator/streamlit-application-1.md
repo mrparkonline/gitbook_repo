@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Streamlit Application #1
+# 💎 Streamlit Application #1
 
 ## Goal
 

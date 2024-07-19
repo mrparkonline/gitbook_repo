@@ -18,6 +18,7 @@
   * [Basic Password Generator](python-programming/basic-password-generator/README.md)
     * [Exercise Set 3](python-programming/basic-password-generator/exercise-set-3.md)
     * [Exercises Related to Math](python-programming/basic-password-generator/exercises-related-to-math.md)
+    * [💎 Streamlit Application #2](python-programming/basic-password-generator/streamlit-application-2.md)
   * [How to Store Multiple Data Items](python-programming/how-to-store-multiple-data-items.md)
   * [Page](python-programming/page.md)
 * [⌨️ ICS4U1 Content (2023)](ics4u1-content-2023/README.md)

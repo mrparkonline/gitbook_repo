@@ -43,7 +43,7 @@ print(f"{number1} / {number2} = {result4}")
 
 ```python
 # User choosing a desired operation
-print('''Please chooses the following possible operations:
+print('''Please choose one of the following possible operations:
 - 1. Add
 - 2. Subtract
 - 3. Multiply
