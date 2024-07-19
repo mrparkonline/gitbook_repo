@@ -22,6 +22,7 @@
   * [How to Store Multiple Data Items](python-programming/how-to-store-multiple-data-items/README.md)
     * [How to Save Text to an External File](python-programming/how-to-store-multiple-data-items/how-to-save-text-to-an-external-file.md)
   * [A To-Do Task List](python-programming/a-to-do-task-list.md)
+  * [Sample Outline](python-programming/sample-outline.md)
 * [⌨️ ICS4U1 Content (2023)](ics4u1-content-2023/README.md)
   * [🍎 02 - Programming In Python](02-programming-in-python/README.md)
     * [Python Basics](02-programming-in-python/python-basics/README.md)
