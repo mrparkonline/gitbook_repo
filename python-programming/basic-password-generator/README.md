@@ -110,6 +110,12 @@ Include special characters? (Y/N): N
 The randomly generated password is: qK5g8sHj
 ```
 
+### Connected Readings
+
+* **Membership Operation (**[**Link**](../../02-programming-in-python/conditionals/comparison-logical-and-membership-operators.md)**)**
+* **Strings (**[**Link**](../../02-programming-in-python/strings/)**)**
+* **List (**[**Link**](../../02-programming-in-python/tuples-and-lists/)**)**
+
 ### General Password Tips
 
 #### Weak Passwords
