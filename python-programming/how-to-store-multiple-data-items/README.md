@@ -20,7 +20,7 @@ If we do not need to remember our previous state of our program, we often store 
 If we want to save data from our program to be accessible without the program or we want to remember what happened in the previous execution, we would need to create an external file or create and use a database.
 {% endhint %}
 
-### Option 1 - Using [lists](../02-programming-in-python/tuples-and-lists/)
+### Option 1 - Using [lists](../../02-programming-in-python/tuples-and-lists/)
 
 * [ ] Items are not consistent in data type
 * [ ] Items can repeat
@@ -51,7 +51,7 @@ example[2] = 5 # now example is: ['Marshall', 'Park', 5, ['Freya', 'Goji'], 'Whi
 
 Lists are built-in data type in Python that offers strong set of operations and methods to provide a way to have data collection.
 
-### Option 2 - Using [sets](../02-programming-in-python/sets.md)
+### Option 2 - Using [sets](../../02-programming-in-python/sets.md)
 
 #### Main Reason: To check if some item exists, checking against a set is faster than checking against a list
 
@@ -105,7 +105,7 @@ inventory = {
 }
 ```
 
-The code above is an example of using a [dictionary](../02-programming-in-python/dictionary.md).
+The code above is an example of using a [dictionary](../../02-programming-in-python/dictionary.md).
 
 A dictionary will always store two types of information for each item in its collection.
 
