@@ -28,6 +28,8 @@
   * [Longest Common Prefix - LeetCode](python-programming/longest-common-prefix-leetcode/README.md)
     * [Compare all possible prefixes](python-programming/longest-common-prefix-leetcode/compare-all-possible-prefixes.md)
     * [Create the longest common prefix with the direct neighbour](python-programming/longest-common-prefix-leetcode/create-the-longest-common-prefix-with-the-direct-neighbour.md)
+  * [Length of Last Word - LeetCode](python-programming/length-of-last-word-leetcode/README.md)
+    * [Compare all possible prefixes](python-programming/length-of-last-word-leetcode/compare-all-possible-prefixes.md)
   * [Sample Outline](python-programming/sample-outline.md)
 * [⌨️ ICS4U1 Content (2023)](ics4u1-content-2023/README.md)
   * [🍎 02 - Programming In Python](02-programming-in-python/README.md)
