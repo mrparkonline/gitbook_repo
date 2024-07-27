@@ -95,6 +95,24 @@ def twoSum(array: list[int], target: int) -> list[int]:
 # end of twoSum()
 ```
 
+### Doing only a single traversal through the dictionary
+
+```python
+def twoSum(array: list[int], target: int) -> list[int]:
+     table = {}
+     
+     for i in range(len(array)):
+          current_num = array[i]
+          diff = target - current_num
+          
+          if diff in table:
+               return [table[diff], i]
+          
+          table[current_num] = i
+     
+     return []
+```
+
 ## Connected Readings
 
 * **Functions (**[**Link**](../../02-programming-in-python/defining-functions/functions.md)**)**

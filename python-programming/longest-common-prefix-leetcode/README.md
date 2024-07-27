@@ -57,6 +57,15 @@ Explanation: There is no common prefix among the input strings.
 * At any point the longest prefix is empty, return empty string
 * If there are no more neighbours, return the prefix
 
+3. **Look at each strings vertically to see if they match**
+
+```
+0 1 2 3 4 5 6
+f l o w
+f l o w e r
+f l o w e r s
+```
+
 ## Connected Readings
 
 * **Functions (**[**Link**](../../02-programming-in-python/defining-functions/functions.md)**)**
