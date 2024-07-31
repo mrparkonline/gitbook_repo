@@ -1,5 +1,9 @@
 # Determine if the difference between an integer from the array and the target value exists
 
+{% embed url="https://www.youtube.com/watch?v=XKu_SEDAykw" %}
+Example Coding Interview Question from Google
+{% endembed %}
+
 ## Linear Search Solution
 
 ```python
