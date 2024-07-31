@@ -38,7 +38,7 @@ _insert installation guide and such..._
 
 ### How our App Looks
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Screenshot of the web app calculating 6 x 9</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Screenshot of the web app calculating 6 x 9</p></figcaption></figure>
 
 ### Python Code using Streamlit
 
