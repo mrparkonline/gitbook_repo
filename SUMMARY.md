@@ -26,6 +26,7 @@
     * [Is the dataset sorted?](python-programming/is-this-sum-possible/is-the-dataset-sorted.md)
     * [Searching for a value](python-programming/is-this-sum-possible/searching-for-a-value.md)
     * [Determine if the difference between an integer from the array and the target value exists](python-programming/is-this-sum-possible/determine-if-the-difference-between-an-integer-from-the-array-and-the-target-value-exists.md)
+    * [Sorting Algorithms](python-programming/is-this-sum-possible/sorting-algorithms.md)
     * [Using Two Pointers](python-programming/is-this-sum-possible/using-two-pointers.md)
   * [Two Sum - LeetCode](python-programming/two-sum-leetcode/README.md)
     * [Generate all possible pairs of values](python-programming/two-sum-leetcode/generate-all-possible-pairs-of-values.md)
