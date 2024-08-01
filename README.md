@@ -29,5 +29,4 @@ During the first revision of the book, [**Python**](https://www.python.org/) wil
 
 _In future revisions, it is hope to add multiple programming languages to accommodate all learners._
 
-
-
+## What is Computer Science
