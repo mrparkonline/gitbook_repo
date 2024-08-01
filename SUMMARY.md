@@ -42,6 +42,7 @@
   * [What is SQL?](python-and-databases/what-is-sql.md)
   * [Getting Started](python-and-databases/getting-started.md)
   * [SELECT Queries: Lesson 1](python-and-databases/select-queries-lesson-1.md)
+  * [Selection with Criteria/Constraints: Lesson 2](python-and-databases/selection-with-criteria-constraints-lesson-2.md)
 * [⌨️ ICS4U1 Content (2023)](ics4u1-content-2023/README.md)
   * [🍎 02 - Programming In Python](02-programming-in-python/README.md)
     * [Python Basics](02-programming-in-python/python-basics/README.md)
