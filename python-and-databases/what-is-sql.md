@@ -20,7 +20,7 @@ Popular relational database management systems (RDBMS) include MySQL, PostgreSQL
 
 SQLite is a lightweight, embedded relational database management system that comes bundled with Python. With SQLite, databases are stored in a single file, making them easy to manage and share. The Python Standard Library includes the `sqlite3` module, allowing for easy integration and interaction with SQLite databases using standard SQL queries.
 
-### What is query?
+### What is a query?
 
 A query in SQL is a request for data or information from a database. It is typically written in SQL syntax and is used to perform various operations, such as retrieving specific data, inserting new records, updating existing records, or deleting records.
 

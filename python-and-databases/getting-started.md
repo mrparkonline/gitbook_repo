@@ -53,9 +53,10 @@ cursor = connection.cursor()
 connection.commit()
 
 # Step 6: Optional, see the total number of changes
-print(f"Current Session's Number of changes: {connection.total_changes}")
+print(f"Current session's number of changes: {connection.total_changes}")
 
-# Step 7: When finished with the database, close your connection
+# Step 7: When finished with the database, close your cursor and connection object
+cursor.close()
 connection.close()
 ```
 
@@ -92,8 +93,34 @@ cursor = connection.cursor()
 #     2. Fetch Results
 ```
 
-3. Commit changes from the connection
-4. Close the connection when finished
+4. Commit changes from the connection
+
+```python
+# Commit your changes on the database
+connection.commit()
+
+# This is only required when you make changes to a database
+# Should be executed when
+#     1. You have finished your changes
+#     2. Your script is over and you want to end the program after 
+#        After you have made your changes
+```
+
+5. Close the cursor & connection when finished
+
+```python
+# Closing your cursor and connection objects
+cursor.close()
+connection.close()
+
+# By closing both cursor and connection, 
+# we are saying that this python script is not working on the database at the moment
+```
+
+Closing the cursor and connection is important because:
+
+* it uses up system resources to read/write/append a database -> by closing, we free up such resources
+* it opens up a connection spot -> there are limited number of concurrent connections possible; therefore, releasing a connection means that a new connection can be made
 
 ## Connected Readings:
 
