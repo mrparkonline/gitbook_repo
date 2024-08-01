@@ -25,3 +25,7 @@ SQLite is a lightweight, embedded relational database management system that com
 A query in SQL is a request for data or information from a database. It is typically written in SQL syntax and is used to perform various operations, such as retrieving specific data, inserting new records, updating existing records, or deleting records.
 
 The most common type of SQL query is the `SELECT` statement, which retrieves data from one or more tables based on specified criteria.
+
+## Connected Readings
+
+* **"SQLite vs MySQL vs PostgreSQL: A Comparison Of Relational Database Management Systems" by Digital Oceans (**[**Link**](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)**)**
