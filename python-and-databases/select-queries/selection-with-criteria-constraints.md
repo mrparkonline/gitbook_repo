@@ -1,6 +1,6 @@
 # Selection with Criteria/Constraints
 
-## Our Lesson 2 Database: `swim.db`
+## This Tutorial's Database: `swim.db`
 
 _`Table Name: butterfly200; Showing only first 3 athletes`_
 

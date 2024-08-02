@@ -23,7 +23,7 @@ cursor.close()
 connection.close()
 ```
 
-## Our Lesson 1 Database: `pokemon.db`
+## This Tutorial's Database: `pokemon.db`
 
 _`Table Name: pkmn`_
 

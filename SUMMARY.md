@@ -43,6 +43,7 @@
   * [Getting Started](python-and-databases/getting-started.md)
   * [SELECT Queries](python-and-databases/select-queries/README.md)
     * [Selection with Criteria/Constraints](python-and-databases/select-queries/selection-with-criteria-constraints.md)
+    * [Selection with Fuzziness](python-and-databases/select-queries/selection-with-fuzziness.md)
 * [⌨️ ICS4U1 Content (2023)](ics4u1-content-2023/README.md)
   * [🍎 02 - Programming In Python](02-programming-in-python/README.md)
     * [Python Basics](02-programming-in-python/python-basics/README.md)
