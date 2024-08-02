@@ -1,4 +1,4 @@
-# Selection with Criteria/Constraints: Lesson 2
+# Selection with Criteria/Constraints
 
 ## Our Lesson 2 Database: `swim.db`
 
@@ -26,13 +26,13 @@ The code snippet above is a template of how to choose records that include certa
 
 **Some Examples of Conditions**
 
-| Operator            | Condition                                            | SQL Example                    |
-| ------------------- | ---------------------------------------------------- | ------------------------------ |
-| =, !=, < <=, >, >=  | Standard numerical operators                         | col\_name != 4                 |
-| BETWEEN … AND …     | Number is within range of two values (inclusive)     | col\_name BETWEEN 1.5 AND 10.5 |
-| NOT BETWEEN … AND … | Number is not within range of two values (inclusive) | col\_name NOT BETWEEN 1 AND 10 |
-| IN (…)              | Number exists in a list                              | col\_name IN (2, 4, 6)         |
-| NOT IN (…)          | Number does not exist in a list                      | col\_name NOT IN (1, 3, 5)     |
+| SQL Operator          | What does it do?                                | SQL                                         |
+| --------------------- | ----------------------------------------------- | ------------------------------------------- |
+| `=, !=, < <=, >, >=`  | standard numeric comparisons                    | `column_name != 6`                          |
+| `BETWEEN x AND y`     | checking for inclusive range                    | `column_name BETWEEN 1.5 AND 10.5`          |
+| `NOT BETWEEN x AND y` | check for numbers outside of an inclusive range | `column_name NOT BETWEEN 1 AND 10`          |
+| `IN (x, y, z)`        | value exists in a list                          | `column_name IN ("RED", "GREEN" , "BLUE" )` |
+| `NOT IN (x, y, z)`    | value does not exist in a list                  | `column_name NOT IN (3, 1, 4)`              |
 
 ```plsql
 SELECT name
