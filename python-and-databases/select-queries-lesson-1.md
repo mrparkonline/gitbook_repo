@@ -90,6 +90,17 @@ Our Query Result:
 [('Bulbasaur', 'Grass', 'Poison', 1), ('Charmander', 'Fire', None, 4), ('Squirtle', 'Water', None, 7)]
 ```
 
+## Understanding `.fetchall()`
+
+When you use `fetchall()` after executing a `SELECT` query in SQLite using Python's `sqlite3` module, the method returns a [list](../02-programming-in-python/tuples-and-lists/list-basics.md) of [tuples](../02-programming-in-python/tuples-and-lists/tuples.md), where each tuple represents a row from the result set.
+
+* If you select multiple columns, each tuple will contain multiple values, corresponding to the selected columns.
+* If you select a single column, each tuple will contain a single value.
+
+**However, even if only one column is selected, the result will still be returned as a list of single-value tuples (often referred to as "singleton tuples").**&#x20;
+
+This is because the database cursor's `fetchall()` method is designed to consistently return a list of tuples, ensuring a uniform structure regardless of the number of columns selected.
+
 ### Get data from a single column
 
 ```sql
@@ -156,24 +167,14 @@ Our Query Result:
 
 As you can see the column order does not matter as long as your choose column names that exists.
 
-### Selecting based on specific criteria
+## Exercises
 
-```sql
-SELECT * FROM pkmn WHERE pkmn_type2 IS NULL
-```
+* Query from the `pkmn` table such that you output a set (or a list) with all the types that can be found in the columns of `pkmn_type1` and `pkmn_type2`
+  * Expected Output: {`'Grass', 'Fire', 'Water', 'Poison'}`
+* Query from the `pkmn` table then create and print a list in decreasing order based on the column `number`
+  * Expected Output: `['Squirtle', 'Charmander', 'Bulbasaur']`
 
-Will only select records where a Pokemon does have a second type. This query generates:
+## Connected Reading
 
-<table data-full-width="true"><thead><tr><th>name</th><th>pkmn_type1</th><th>pkmn_type2</th><th>number</th></tr></thead><tbody><tr><td>Charmander</td><td>Fire</td><td></td><td>4</td></tr><tr><td>Squirtle</td><td>Water</td><td></td><td>7</td></tr></tbody></table>
-
-```sql
-SELECT number, name FROM pkmn WHERE pkmn_type1 = "Grass"
-```
-
-Whereas this query generates:
-
-<table data-full-width="true"><thead><tr><th>number</th><th>name</th></tr></thead><tbody><tr><td>1</td><td>Bulbasaur</td></tr></tbody></table>
-
-Exercises
-
-Connected Reading
+* **SQLite Tutorial Site (**[**Link**](https://www.sqlitetutorial.net/)**)**
+* **SQL Tutorial by w3School (**[**Link**](https://www.w3schools.com/sql/)**)**
