@@ -8,7 +8,7 @@ It's particularly useful when looking for data without knowing exactly what they
 
 ## This Tutorial's Database: `spicy.db`
 
-_`Table Name: hotpeppers; Showing only first 3 athletes`_
+_`Table Name: hotpeppers; Showing only first 3 peppers`_
 
 | name     | maxSHU | inventory |
 | -------- | ------ | --------- |
@@ -35,7 +35,7 @@ WHERE name = "serrano"
 ```python
 # Python w/ SQLite
 import sqlite3
-connection = sqlite3.connect("swim.db")
+connection = sqlite3.connect("spicy.db")
 cursor = connection.cursor()
 
 query = '''
@@ -74,7 +74,7 @@ WHERE name LIKE "serrano"
 ```python
 # Python w/ SQLite
 import sqlite3
-connection = sqlite3.connect("swim.db")
+connection = sqlite3.connect("spicy.db")
 cursor = connection.cursor()
 
 query = '''
@@ -109,7 +109,7 @@ WHERE name LIKE "%no"
 ```python
 # Python w/ SQLite
 import sqlite3
-connection = sqlite3.connect("swim.db")
+connection = sqlite3.connect("spicy.db")
 cursor = connection.cursor()
 
 query = '''
@@ -168,7 +168,7 @@ WHERE name LIKE "% %"
 ```python
 # Python w/ SQLite
 import sqlite3
-connection = sqlite3.connect("swim.db")
+connection = sqlite3.connect("spicy.db")
 cursor = connection.cursor()
 
 query = '''
@@ -217,7 +217,7 @@ WHERE name NOT LIKE "%Pepper"
 ```python
 # Python w/ SQLite
 import sqlite3
-connection = sqlite3.connect("swim.db")
+connection = sqlite3.connect("spicy.db")
 cursor = connection.cursor()
 
 query = '''
