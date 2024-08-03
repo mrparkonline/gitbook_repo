@@ -46,6 +46,7 @@
     * [Selection with Fuzziness](python-and-databases/select-queries/selection-with-fuzziness.md)
     * [Selection and Sorting in Order](python-and-databases/select-queries/selection-and-sorting-in-order.md)
     * [Selection without Duplicates](python-and-databases/select-queries/selection-without-duplicates.md)
+    * [Selection with Limited Number of Outputs](python-and-databases/select-queries/selection-with-limited-number-of-outputs.md)
 * [⌨️ ICS4U1 Content (2023)](ics4u1-content-2023/README.md)
   * [🍎 02 - Programming In Python](02-programming-in-python/README.md)
     * [Python Basics](02-programming-in-python/python-basics/README.md)
