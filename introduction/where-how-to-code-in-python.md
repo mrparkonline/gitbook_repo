@@ -42,10 +42,15 @@
 2. Install Python 3.11 or later from [**Microsoft Store**](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K)
 3. Install Visual Studio Code from their [**website**](https://code.visualstudio.com/download).
 4. Run Visual Studio Code for initial setup
+5. You do not need to download any extensions, and you are more than welcome to ignore such pop-ups
 
 ### Setting up Python for macOS
 
-_Coming soon._
+1. Install Python 3.11 or later from the Python Organization's website ([Link](https://www.python.org/downloads/))
+   1. You can install either the Gzipped source or XZ compressed file
+2. Install Visual Studio Code from their [**website**](https://code.visualstudio.com/download).
+3. Run Visual Studio Code for initial setup
+4. You do not need to download any extensions, and you are more than welcome to ignore such pop-ups
 
 ## VS Code Extended
 
