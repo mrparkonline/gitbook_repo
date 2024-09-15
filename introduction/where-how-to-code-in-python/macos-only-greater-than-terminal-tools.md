@@ -43,3 +43,18 @@ brew install git
 ```
 
 3. This will install `git` using `homebrew` which installed in the prior section
+
+## Add $HOME to your sidebar in Finder
+
+<figure><img src="https://i.ytimg.com/vi/j4rzCTi3dqc/maxresdefault.jpg" alt=""><figcaption></figcaption></figure>
+
+Finder is the file manager for macOS.
+
+Our final step to setup our coding environment on a macOS is to make a shortcut to your home folder.
+
+1. On the top bar of your mac when you have `finder` open, is to go to `settings`
+2. Click the Sidebar tab, then select the boxes for the folders you want visible in the Sidebar, which can include Home — it can named like your user account or Home.
+
+<figure><img src="https://cdn3-imgix.macpaw.com/images/content/Make%20Home%20visible%20via%20Finder%20settings_1716382412.png?auto=format&#x26;dpr=1&#x26;fm=png&#x26;ixlib=php-3.3.1&#x26;q=60&#x26;w=608" alt=""><figcaption></figcaption></figure>
+
+3. This will place important directories that we need for coding on the sidebar!
