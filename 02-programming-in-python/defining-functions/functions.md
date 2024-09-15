@@ -2,6 +2,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=u-OmVr_fT4s" %}
 
+{% embed url="https://www.youtube.com/watch?v=qn7ri0slMP8" %}
+
 * In Python 3, we are able to create custom functions that are much similar to the built-in functions we have encountered
 * These functions are callable and can output results to our liking
 * This allows us to organize our code when our projects become more complex
