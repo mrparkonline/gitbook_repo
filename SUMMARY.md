@@ -1,7 +1,8 @@
 # Table of contents
 
 * [💻 Introduction](README.md)
-  * [Where/How to Code in Python?](introduction/where-how-to-code-in-python.md)
+  * [Where/How to Code in Python?](introduction/where-how-to-code-in-python/README.md)
+    * [macOS Only -> Terminal Tools](introduction/where-how-to-code-in-python/macos-only-greater-than-terminal-tools.md)
   * [Author Page](introduction/author-page.md)
 * [🧠 Prerequisite Skills](01-prerequisite-skills/README.md)
   * [Keyboard Typing](01-prerequisite-skills/keyboard-typing.md)
