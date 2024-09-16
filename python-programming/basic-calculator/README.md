@@ -1,5 +1,7 @@
 # Basic Calculator
 
+{% embed url="https://www.youtube.com/watch?v=GchomETo4M8" %}
+
 ## Goal
 
 Build a simple Python program that can add, subtract, multiply, and divide two numbers.
