@@ -26,6 +26,7 @@ It's widely used by developers to install programming languages, tools, and libr
 ```
 
 3. Let the Installation complete, then close and quit your terminal.
+4. _**MAKE SURE TO RUN THE COMMANDS IT TELLS YOU TO AFTER A SUCCESSFUL INSTALLATION**_
 
 <figure><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&#x26;s" alt=""><figcaption></figcaption></figure>
 
