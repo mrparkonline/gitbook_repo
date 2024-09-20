@@ -1,5 +1,7 @@
 # Basic Password Generator
 
+{% embed url="https://www.youtube.com/watch?v=vZc9Xdhxz6Q" %}
+
 ## Goal
 
 Create a Python script that will generate a password with given parameters.
