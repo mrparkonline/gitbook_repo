@@ -22,6 +22,7 @@
     * [💎 Streamlit Application #2](python-programming/basic-password-generator/streamlit-application-2.md)
   * [How to Store Multiple Data Items](python-programming/how-to-store-multiple-data-items/README.md)
     * [How to Save Text to an External File](python-programming/how-to-store-multiple-data-items/how-to-save-text-to-an-external-file.md)
+    * [Exercise Set 4](python-programming/how-to-store-multiple-data-items/exercise-set-4.md)
   * [A To-Do Task List](python-programming/a-to-do-task-list.md)
   * [Is This Sum Possible?](python-programming/is-this-sum-possible/README.md)
     * [Is the dataset sorted?](python-programming/is-this-sum-possible/is-the-dataset-sorted.md)
