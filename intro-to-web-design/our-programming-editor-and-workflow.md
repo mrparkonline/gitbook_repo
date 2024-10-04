@@ -2,6 +2,10 @@
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Programiz's Online JavaScript Compiler</p></figcaption></figure>
 
+## What is a program?
+
+A program is a set of ordered instruction that a computer will follow. It is often written by a human programmer. Most programs are designed to execute its lines of code from top to bottom, in order.
+
 ## What is a programming editor?
 
 A programming editor is usually a software that allows a programmer to write programs.
@@ -23,4 +27,3 @@ _Workflow is a guided process of how a programmer should work._
    3. There should be no special characters except an underscore (\_)
    4. You should not use a period (`.`) unless you are specifying the extension
 5. Upload the file in an organized folder within your Google Drive Folder for this class
-
