@@ -9,9 +9,11 @@ In programming there are 4 fundamental operations with data.
 
 ## Assignment Operation
 
-```
+```javascript
 let name = "Mr. Park";
 ```
+
+Assignment operation is a way to store a value into a labeled container called a _**variable**._
 
 ## Arithmetic Operation
 
@@ -52,3 +54,6 @@ console.log(y--);
 {% endtab %}
 {% endtabs %}
 
+### Comparison & Logical Operator
+
+Comparison and Logical operators will be explained in a future lesson when we learn how to do decision making with programming.

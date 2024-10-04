@@ -174,6 +174,8 @@
   * [Commenting & Variables](intro-to-web-design/commenting-and-variables.md)
   * [Data in JavaScript](intro-to-web-design/data-in-javascript.md)
   * [Operators](intro-to-web-design/operators.md)
+  * [String Formatting](intro-to-web-design/string-formatting.md)
+  * [JavaScript Exercise Set 1](intro-to-web-design/javascript-exercise-set-1.md)
 * [💾 Topics in CS](java-essentials/topics-in-cs/README.md)
   * [Computer Environments & Systems](java-essentials/computer-environments-and-systems/README.md)
     * [Computer Components](topics-in-cs/computer-environments-and-systems/computer-components/README.md)
