@@ -25,3 +25,7 @@ Create a program that does the following:
 `Hello [FIRST NAME] [LAST NAME] You are [AGE] years old.`
 
 Replace the content with within the square brackets `[]` to the variables you created.
+
+### 3. Update Question 1 & 2
+
+Create new programs such that the variables you created can be assigned with the result of the `prompt()` function.
