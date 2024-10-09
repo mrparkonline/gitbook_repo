@@ -67,3 +67,35 @@ console.log(greeting);
     * When this line is executed, it will output: `Hi, how are you?`
 
 So, when you run this program, it will display the message `"Hi, how are you?"` in the console.&#x20;
+
+## Variable Creation and Variable Updates
+
+```javascript
+// This is a variable creation
+let pet_name = "Marshall";
+```
+
+**Note:** You cannot create the same variable twice.
+
+```javascript
+// This is a variable creation done twice, which would cause an error
+let pet_name = "Marshall";
+let pet_name = "Freya";
+```
+
+If you wanted to change/update the value stored in a variable, you can just do a variable update.
+
+```javascript
+// This is a variable creation done twice, which would cause an error
+let pet_name = "Marshall";
+pet_name = "Freya";
+```
+
+You are allowed to re-reference a variable created and assign a new value when switching its value.
+
+**WARNING:** the program will not remember its previous value.
+
+## Recommended Readings
+
+* Variables ([Link](https://javascript.info/variables))
+

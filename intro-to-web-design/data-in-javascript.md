@@ -62,3 +62,8 @@ let bigNumber = BigInt(1234567890123456789012345678901234567890n);
 ```
 
 _In this introductory programming course, we will not be learning non-primitive data types._
+
+## Recommended Readings
+
+* Data Types ([Link](https://javascript.info/types))
+

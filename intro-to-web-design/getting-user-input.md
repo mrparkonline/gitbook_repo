@@ -88,3 +88,8 @@ let digits = String(num); // digits is now "123"
 ```
 
 There are time when you would want to convert a variable to a string if you need certain features that come with String objects.
+
+## Related Readings
+
+* Type Conversions ([Link](https://javascript.info/type-conversions))
+

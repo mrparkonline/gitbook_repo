@@ -57,3 +57,8 @@ console.log(y--);
 ### Comparison & Logical Operator
 
 Comparison and Logical operators will be explained in a future lesson when we learn how to do decision making with programming.
+
+## Related Readings
+
+* Operators ([Link](https://javascript.info/operators))
+
