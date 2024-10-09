@@ -41,4 +41,4 @@ _Comparison operation will result into a Boolean value_
 
 ## Recommended Readings
 
-**Comparisons (**[**Link**](https://javascript.info/comparison)**)**
+* **Comparisons (**[**Link**](https://javascript.info/comparison)**)**

@@ -37,3 +37,32 @@ console.log(`Your number is: ${num}`);
 ```
 
 An `else` statement is not a requirement for all if clauses; however, you can use it if you want something to happen when the condition it is attached to is evaluated to `false`.
+
+## Multiple Branches
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+To create a program with multiple, _**BUT RELATED**_ pathways, we can incorporate an `else if` statement.
+
+<pre class="language-javascript"><code class="lang-javascript">let num = prompt("Enter a value");
+
+<strong>if (num == 69) {
+</strong><strong>    console.log("Nice!");
+</strong><strong>} else if (num > 100) {
+</strong>    console.log("Wow, that is a large number!");
+} else {
+    console.log("Darn, that is a small number!");
+}
+
+console.log(`Your number is: ${num}`);
+</code></pre>
+
+The program above would work as follows
+
+* It outputs `Nice!` only if num was equal to 69
+* It outputs `Wow, that is a large number!`, only if `num` is not equal to 69 and greater than 100
+* It outputs `Darn, that is a small number!`, only if `num` is not equal to 69 and `num` is less than 100
+
+## Recommended Reading
+
+* **Conditional Branching (**[**Link**](https://javascript.info/ifelse)**)**
