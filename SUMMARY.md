@@ -179,6 +179,8 @@
   * [Getting User Input](intro-to-web-design/getting-user-input.md)
   * [JavaScript Exercise Set 1](intro-to-web-design/javascript-exercise-set-1.md)
   * [Making Decisions](intro-to-web-design/making-decisions.md)
+  * [Comparing Values](intro-to-web-design/comparing-values.md)
+  * [Creating Branches](intro-to-web-design/creating-branches.md)
 * [💾 Topics in CS](java-essentials/topics-in-cs/README.md)
   * [Computer Environments & Systems](java-essentials/computer-environments-and-systems/README.md)
     * [Computer Components](topics-in-cs/computer-environments-and-systems/computer-components/README.md)

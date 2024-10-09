@@ -1,6 +1,6 @@
 # Our Programming Editor & Workflow
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Programiz's Online JavaScript Compiler</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Programiz's Online JavaScript Compiler</p></figcaption></figure>
 
 ## What is a program?
 

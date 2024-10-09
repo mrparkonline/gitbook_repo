@@ -11,10 +11,10 @@ Web design relies on three core technologies: **HTML**, **CSS**, and **JavaScrip
 3. **JavaScript**:
    * **Interactivity**: JavaScript adds interactivity to web pages. It allows you to create dynamic content, such as interactive forms, animations, and real-time updates.
    * **Functionality**: It can manipulate HTML and CSS, handle events (like clicks and key presses), and communicate with servers to fetch or send data without reloading the page.
+   * **`Fun Fact -> Java is not JavaScript and vice versa.`**
 
 Together, these technologies enable web designers to create visually appealing, interactive, and user-friendly websites.
 
 ## Programming
 
 Programming is a way that a programmer writes instructions for a computer to execute. In this chapter, we will learn how we can program using the language JavaScript.
-
