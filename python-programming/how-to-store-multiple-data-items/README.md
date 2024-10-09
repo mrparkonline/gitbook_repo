@@ -1,5 +1,9 @@
 # How to Store Multiple Data Items
 
+{% embed url="https://www.youtube.com/watch?v=vfEpANBDVLQ" %}
+
+
+
 ## Scenario
 
 As a programmer, there are instances where you would need a single variable to hold multiple values. There are many answers to this situation because there are different designed solutions to different scenarios of this problem.
@@ -53,6 +57,10 @@ Lists are built-in data type in Python that offers strong set of operations and 
 
 ### Option 2 - Using [sets](../../02-programming-in-python/sets.md)
 
+{% embed url="https://www.youtube.com/watch?v=JEbl_BRqMBg" %}
+
+
+
 #### Main Reason: To check if some item exists, checking against a set is faster than checking against a list
 
 * [ ] Sets can handle different data types, but most often each item in a set should be a same data type
@@ -91,6 +99,10 @@ With respect to performance (_speed of the program_), the `set` based collection
 Therefore, a set would need to do a single hashing operation to see if that value is in the set or not. However, a list would have to check every single value against the searching value to see if it exists in the list. As the size of the list grows, the number of comparisons Python needs to do would be far larger than the number of comparisons a set would have done.
 
 ### Option 3 - Countable Unique Items
+
+{% embed url="https://www.youtube.com/watch?v=XHghWpl8hH0" %}
+
+
 
 For this situation, let's look at an example first.
 
