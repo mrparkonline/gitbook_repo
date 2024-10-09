@@ -3,7 +3,15 @@
 ## Comprehension Questions
 
 1. What does `console.log()` do?
-2.
+2. What symbols do you use to create a comment, and why would you write a comment in your code?
+3. What is a variable?
+4. What are the 4 rules when naming a variable?
+5. What keyword do you use when creating a variable?
+6. Can two variables share the same name?
+7. What is the difference between variable assignment/creation and variable update?
+8. List the 7 primitive data types in JavaScript
+9. Why would programmers need the modulus operator?
+10. What does it mean to do type casting?
 
 ## Programming Questions
 
