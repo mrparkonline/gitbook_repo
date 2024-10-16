@@ -37,3 +37,10 @@ Replace the content with within the square brackets `[]` to the variables you cr
 ### 3. Update Question 1 & 2
 
 Create new programs such that the variables you created can be assigned with the result of the `prompt()` function.
+
+## More Programming Questions
+
+1. Conveyor Belt Sushi ([Link](https://dmoj.ca/problem/ccc24j1/pdf))
+2. Deliv-e-droid ([Link](https://dmoj.ca/problem/ccc23j1/pdf))
+3. Cupcake Party ([Link](https://dmoj.ca/problem/ccc22j1/pdf))
+4. Boiling Water ([Link](https://dmoj.ca/problem/ccc21j1/pdf))
