@@ -45,6 +45,7 @@
     * [Compare all possible prefixes](python-programming/length-of-last-word-leetcode/compare-all-possible-prefixes.md)
   * [Where can I go from one point to another?](python-programming/where-can-i-go-from-one-point-to-another.md)
   * [Sample Outline](python-programming/sample-outline.md)
+  * [IB Recipe Book](python-programming/ib-recipe-book.md)
 * [💾 Python & Databases](python-and-databases/README.md)
   * [What is SQL?](python-and-databases/what-is-sql.md)
   * [Getting Started](python-and-databases/getting-started.md)
