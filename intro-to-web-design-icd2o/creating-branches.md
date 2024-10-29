@@ -1,6 +1,6 @@
 # Creating Branches
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## A Single Branch -> `if statement`
 
@@ -20,7 +20,7 @@ Any code that belongs to a coding construct is called a `"code block"`
 
 ## Binary Branch -> `if ... else statement`
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To create a program with two pathways where we can have an event occurs when our `if statement` evaluates to **false** is using an `else` statement.
 
