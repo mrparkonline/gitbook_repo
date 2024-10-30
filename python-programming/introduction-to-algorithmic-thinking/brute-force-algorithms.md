@@ -13,8 +13,8 @@ They don’t use any shortcuts or optimizations, which often makes them simple t
 
 ### Example Brute Force Algorithms:
 
-* [**Linear Search:**](../../03-complexity-and-algorithms/linear-search.md) Checking each element in a list sequentially.&#x20;
-* [**Bubble Sort:**](../../03-complexity-and-algorithms/basic-sorting-algorithms.md) Repeatedly swapping adjacent elements if they are in the wrong order.
+* [**Linear Search:**](basic-algorithms/linear-search.md) Checking each element in a list sequentially.&#x20;
+* [**Bubble Sort:**](basic-algorithms/basic-sorting-algorithms.md) Repeatedly swapping adjacent elements if they are in the wrong order.
 * **Password Cracking:** Trying all possible combinations until the correct one is found.
 
 ## Constructing a Brute Force Solution

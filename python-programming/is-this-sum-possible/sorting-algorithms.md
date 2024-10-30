@@ -79,6 +79,6 @@ print(numbers)
 
 ## Connected Readings
 
-* **Basic Sorting Algorithms (**[**Link**](../../03-complexity-and-algorithms/basic-sorting-algorithms.md)**)**
-* **Merge Sort (**[**Link**](../../03-complexity-and-algorithms/merge-sort.md)**)**
+* **Basic Sorting Algorithms (**[**Link**](../introduction-to-algorithmic-thinking/basic-algorithms/basic-sorting-algorithms.md)**)**
+* **Merge Sort (**[**Link**](../introduction-to-algorithmic-thinking/divide-and-conquer/merge-sort.md)**)**
 * **"How does timsort work? - Baeldung" (**[**Link**](https://www.baeldung.com/cs/timsort)**)**

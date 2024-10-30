@@ -104,6 +104,6 @@ The weakness of binary search are the following:
 
 ## Connected Reading
 
-* **Linear Search (**[**Link**](../../03-complexity-and-algorithms/linear-search.md)**)**
-* **Binary Search (**[**Link**](../../03-complexity-and-algorithms/binary-search.md)**)**
+* **Linear Search (**[**Link**](../introduction-to-algorithmic-thinking/basic-algorithms/linear-search.md)**)**
+* **Binary Search (**[**Link**](../introduction-to-algorithmic-thinking/basic-algorithms/binary-search.md)**)**
 * **Big-O Notation (**[**Link**](../../03-complexity-and-algorithms/big-o-notation.md)**)**

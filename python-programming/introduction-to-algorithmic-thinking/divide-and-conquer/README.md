@@ -28,4 +28,4 @@ Here’s a general outline of how divide and conquer algorithms work:
 
 Recursion is a process in which a function calls itself directly or indirectly to solve a problem. The concept of recursion is a pre-requisite skill for divide and conquer.
 
-#### Recommended Chapter: [_Recursion_](recursion.md)
+#### Recommended Chapter: [_Recursion_](../recursion.md)
