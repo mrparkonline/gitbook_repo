@@ -1,6 +1,6 @@
 # Dijkstra’s Algorithm
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>(GeeksforGeeks <a href="https://media.geeksforgeeks.org/wp-content/uploads/20240111182238/Working-of-Dijkstras-Algorithm-768.jpg">Source</a>)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>(GeeksforGeeks <a href="https://media.geeksforgeeks.org/wp-content/uploads/20240111182238/Working-of-Dijkstras-Algorithm-768.jpg">Source</a>)</p></figcaption></figure>
 
 Dijkstra’s algorithm finds the shortest path from a location to every other location.
 

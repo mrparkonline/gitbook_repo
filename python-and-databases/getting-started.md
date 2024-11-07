@@ -1,6 +1,16 @@
 # Getting Started
 
-## Download Lesson Contents
+## Get the Lesson Contents Forked
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+If you’re using GitHub, start by forking the repository.&#x20;
+
+This creates a **`copy of the repository`** under your GitHub account.&#x20;
+
+You can do this by clicking the “Fork” button at the top right of the repository page.
+
+## Clone Lesson Contents to your Machine
 
 ```git
 git clone https://github.com/mrparkonline/ib_databases.git

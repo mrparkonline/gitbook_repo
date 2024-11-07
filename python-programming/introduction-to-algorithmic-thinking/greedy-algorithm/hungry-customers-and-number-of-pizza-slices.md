@@ -1,6 +1,6 @@
 # Hungry Customers & Number of Pizza Slices
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>ChatGPT generated Pizzeria</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>ChatGPT generated Pizzeria</p></figcaption></figure>
 
 ## Story
 
