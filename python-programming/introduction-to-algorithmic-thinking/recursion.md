@@ -105,7 +105,7 @@ def recursive_sum(num):
         return 0
     else:
         # Working towards the base case
-        return num + recursive_sum(num)
+        return num + recursive_sum(num-1)
 ```
 {% endtab %}
 
