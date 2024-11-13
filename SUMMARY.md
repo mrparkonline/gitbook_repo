@@ -32,7 +32,7 @@
     * [Recursion](python-programming/introduction-to-algorithmic-thinking/recursion.md)
     * [Brute Force Algorithms](python-programming/introduction-to-algorithmic-thinking/brute-force-algorithms.md)
     * [Greedy Algorithm](python-programming/introduction-to-algorithmic-thinking/greedy-algorithm/README.md)
-      * [Hungry Customers & Number of Pizza Slices](python-programming/introduction-to-algorithmic-thinking/greedy-algorithm/hungry-customers-and-number-of-pizza-slices.md)
+      * [Time on Task (CCC 2013 J4)](python-programming/introduction-to-algorithmic-thinking/greedy-algorithm/time-on-task-ccc-2013-j4.md)
       * [Dijkstra’s Algorithm](python-programming/introduction-to-algorithmic-thinking/greedy-algorithm/dijkstras-algorithm.md)
     * [Divide and Conquer](python-programming/introduction-to-algorithmic-thinking/divide-and-conquer/README.md)
       * [Merge Sort](python-programming/introduction-to-algorithmic-thinking/divide-and-conquer/merge-sort.md)
