@@ -3,24 +3,24 @@
 ## TO DO
 
 * [ ] General Problem Solving Techniques & Ideas
-  * [ ] How to create an order of instructions
-  * [ ] When is decision making required?
+  * [x] How to create an order of instructions
+  * [x] When is decision making required?
   * [ ] Preplanning + Gantt Charts
   * [ ] Concurrent Processing
 * [x] How to procedurally solve a problem (use of functions)
-  * [ ] Include sub-procedure (helper functions)
-  * [ ] Identify Input & Outputs required
+  * [x] Include sub-procedure (helper functions)
+  * [x] Identify Input & Outputs required
 * [x] Conditionals, Boolean Operators
 * [ ] Preconditions of an Algorithm
-  * [ ] Binary Search requires a sorted list
-  * [ ] Division cannot have a denominator of 0
+  * [x] Binary Search requires a sorted list
+  * [x] Division cannot have a denominator of 0
 * [ ] Postconditions of a Algorithm
   * [ ] Testing and expected results
 * [ ] Exceptions
 * [ ] What is abstraction?
   * [ ] Tables, Queries
   * [ ] Objects
-  * [ ] Levels of Abstraction + successive decomposition
+  * [x] Levels of Abstraction + successive decomposition
   * [ ] Real World Examples
 * [x] Linear Array Algorithms
   * [x] Search
@@ -32,31 +32,31 @@
 * [ ] Examples of Algorithms
   * [x] Two Pointer
   * [ ] Case Studies
-  * [ ] When to use certain algorithms
+  * [x] When to use certain algorithms
 * [ ] Flowcharts of Algorithms
-* [ ] Pseudocodes of Algorithms
-  * [ ] Complexity
+* [x] Pseudocodes of Algorithms
+  * [x] Complexity
 * [ ] Fundamental Operations of a computer
 * [ ] Fundamental vs Compound operation
   * [ ] `"Find the largest"` -> is a compound operation
 * [ ] Essential Features of a Computer Language
-  * [ ] Machine Level to Higher Level language
-    * [ ] Compiler
-    * [ ] Interpreter
+  * [x] Machine Level to Higher Level language
+    * [x] Compiler
+    * [x] Interpreter
     * [ ] Virtual Machine
 * [ ] Coding 101
   * [ ] Binary
-    * [ ] Bit, Byte, Binary, Hexadecimal
-    * [ ] How does a computer represent data
+    * [x] Bit, Byte, Binary, Hexadecimal
+    * [x] How does a computer represent data
   * [ ] Logic Gates
     * [ ] AND, OR, NAND, NOR, XOR
     * [ ] Truth Tables
     * [ ] Logic Diagrams
-  * [ ] Variable, Constant
+  * [x] Variable, Constant
   * [ ] Objects
-  * [ ] Operators
-    * [ ] Arithmetic Operators
-  * [ ] Comparison + Conditionals
-  * [ ] Loops
-  * [ ] Collections
-  * [ ] Functions & Built-in Functions
+  * [x] Operators
+    * [x] Arithmetic Operators
+  * [x] Comparison + Conditionals
+  * [x] Loops
+  * [x] Collections
+  * [x] Functions & Built-in Functions
