@@ -35,7 +35,7 @@ The **`__str__()`** method returns a human-readable, or informal, string represe
 
 The **`__repr__()`** method returns a more information-rich, or official, string representation of an object. This is often called when your custom object needs to be displayed within another or any other sitution where `__str__()` is not used.
 
-### Fixing out classes
+### Fixing the `Employee` classes
 
 ```python
 class Employee: 

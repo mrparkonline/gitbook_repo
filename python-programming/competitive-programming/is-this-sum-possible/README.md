@@ -68,6 +68,6 @@ _This solution optimizes the previous solution by taking advantage of the datase
 
 ## Connected Readings
 
-* **Functions (**[**Link**](../../02-programming-in-python/defining-functions/functions.md)**)**
-* **Loops (**[**Link**](../../02-programming-in-python/iterations/)**)**
-* **List (**[**Link**](../../02-programming-in-python/tuples-and-lists/list-basics.md)**)**
+* **Functions (**[**Link**](../../../02-programming-in-python/defining-functions/functions.md)**)**
+* **Loops (**[**Link**](../../../02-programming-in-python/iterations/)**)**
+* **List (**[**Link**](../../../02-programming-in-python/tuples-and-lists/list-basics.md)**)**

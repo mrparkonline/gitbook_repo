@@ -50,7 +50,7 @@ Explanation: The last word is "joyboy" with length 6.
 
 ## Connected Readings
 
-* **Functions (**[**Link**](../../02-programming-in-python/defining-functions/functions.md)**)**
-* **Loops (**[**Link**](../../02-programming-in-python/iterations/)**)**
-* **List (**[**Link**](../../02-programming-in-python/tuples-and-lists/list-basics.md)**)**
-* **Strings (**[**Link**](../../02-programming-in-python/strings/)**)**
+* **Functions (**[**Link**](../../../02-programming-in-python/defining-functions/functions.md)**)**
+* **Loops (**[**Link**](../../../02-programming-in-python/iterations/)**)**
+* **List (**[**Link**](../../../02-programming-in-python/tuples-and-lists/list-basics.md)**)**
+* **Strings (**[**Link**](../../../02-programming-in-python/strings/)**)**

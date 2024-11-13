@@ -35,7 +35,7 @@ Explanation: There is no common prefix among the input strings.
 
 ## Problem Requirement Breakdown
 
-* Create a [**function**](../../02-programming-in-python/defining-functions/functions.md) that takes a single argument:
+* Create a [**function**](../../../02-programming-in-python/defining-functions/functions.md) that takes a single argument:
   * A list of strings
 * Compare different prefixes to find matching patterns
 * Return a common prefix if found, otherwise return an empty string
@@ -68,7 +68,7 @@ f l o w e r s
 
 ## Connected Readings
 
-* **Functions (**[**Link**](../../02-programming-in-python/defining-functions/functions.md)**)**
-* **Loops (**[**Link**](../../02-programming-in-python/iterations/)**)**
-* **List (**[**Link**](../../02-programming-in-python/tuples-and-lists/list-basics.md)**)**
-* **Strings (**[**Link**](../../02-programming-in-python/strings/)**)**
+* **Functions (**[**Link**](../../../02-programming-in-python/defining-functions/functions.md)**)**
+* **Loops (**[**Link**](../../../02-programming-in-python/iterations/)**)**
+* **List (**[**Link**](../../../02-programming-in-python/tuples-and-lists/list-basics.md)**)**
+* **Strings (**[**Link**](../../../02-programming-in-python/strings/)**)**

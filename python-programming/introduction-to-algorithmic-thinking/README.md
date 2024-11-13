@@ -35,6 +35,6 @@ There are two fundamental topics in algorithm design:
 To prepare for this chapter please the following chapters first:
 
 1. [Run Time Analysis](../../03-complexity-and-algorithms/run-time-analysis.md)
-2. [Big - O Notation](../../03-complexity-and-algorithms/big-o-notation.md)
+2. [Big - O Notation](big-o-notation.md)
 3. [Linear Search](basic-algorithms/linear-search.md)
 4. [Basic Sorting Algorithms](basic-algorithms/basic-sorting-algorithms.md)
