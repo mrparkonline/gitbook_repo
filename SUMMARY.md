@@ -200,6 +200,7 @@
   * [Subprograms & Functions](intro-to-web-design-icd2o/subprograms-and-functions/README.md)
     * [Creating a Function in JavaScript](intro-to-web-design-icd2o/subprograms-and-functions/creating-a-function-in-javascript.md)
     * [Function with Input and Assignable Output](intro-to-web-design-icd2o/subprograms-and-functions/function-with-input-and-assignable-output.md)
+  * [JavaScript Exercise Set 4](intro-to-web-design-icd2o/javascript-exercise-set-4.md)
 * [💾 Topics in CS](java-essentials/topics-in-cs/README.md)
   * [Computer Environments & Systems](java-essentials/computer-environments-and-systems/README.md)
     * [Computer Components](topics-in-cs/computer-environments-and-systems/computer-components/README.md)
