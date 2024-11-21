@@ -34,7 +34,7 @@ Git + Github is a good way to do version control so that you can go back to your
 3. **Repository Details**:
    * Enter a **repository name**.
    * Optionally, add a **description**.
-   * Select **Private** under the repository visibility options.
+   * Select **Public** or **Private** under the repository visibility options.
    * Optionally, you can initialize the repository with a README, .gitignore, or a license.
 4. **Create Repository**:
    * Click on the **Create repository** button.
@@ -43,7 +43,7 @@ Git + Github is a good way to do version control so that you can go back to your
 
 1. **Copy Repository URL**:
    * On your repository page, click on the **Code** button.
-   * Copy the URL provided (either HTTPS or SSH).
+   * Copy the URL provided (HTTPS).
 2. **Open Terminal/Command Prompt**:
    * Open your terminal (Mac/Linux) or Command Prompt (Windows).
 3. **Navigate to Desired Directory**:
