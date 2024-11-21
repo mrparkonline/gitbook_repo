@@ -10,6 +10,7 @@
   * [Use of Command Line](01-prerequisite-skills/use-of-command-line.md)
   * [Git & GitHub](01-prerequisite-skills/git-and-github.md)
   * [Markdown](01-prerequisite-skills/markdown.md)
+  * [Starting Your Python Project](prerequisite-skills/starting-your-python-project.md)
 * [🐍 Python Programming](python-programming/README.md)
   * [Basic Calculator](python-programming/basic-calculator/README.md)
     * [Improving the calculator](python-programming/basic-calculator/improving-the-calculator.md)
