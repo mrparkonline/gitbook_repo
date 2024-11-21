@@ -25,7 +25,7 @@ Git + Github is a good way to do version control so that you can go back to your
 ## DO NOT CLONE A REPOSITORY INSIDE ANOTHER REPOSITORY
 
 {% hint style="info" %}
-#### Creating a Private GitHub Repository
+#### Creating a Public/Private GitHub Repository
 
 1. **Log in to GitHub**:
    * Go to GitHub and log in with your credentials.
@@ -71,15 +71,22 @@ Git + Github is a good way to do version control so that you can go back to your
 {% hint style="info" %}
 1. **Open PowerShell as Administrator**:
    * Press `Win + X` and select **Windows PowerShell (Admin)** or **Windows Terminal (Admin)** if you're using Windows Terminal.
-2. **Check Current Execution Policy**:
-   *   In the PowerShell window, type the following command and press Enter:
+2.  **Check Current Execution Policy**:
 
-       ```powershell
-       Get-ExecutionPolicy
-       ```
-   * This will show you the current execution policy. By default, it might be set to `Restricted`.
-3. **Set Execution Policy**:
-   * To allow scripts to run, you can set the execution policy to `RemoteSigned`
+    * In the PowerShell window, type the following command and press Enter:
+
+    ```powershell
+    Get-ExecutionPolicy
+    ```
+
+    * This will show you the current execution policy. By default, it might be set to `Restricted`.
+3.  **Set Execution Policy**:
+
+    * To allow scripts to run, you can set the execution policy to `RemoteSigned`
+
+    ```powershell
+    Set-ExecutionPolicy RemoteSigned
+    ```
 {% endhint %}
 
 4. **Set up a Python Virtual Environment in your repository**
@@ -146,7 +153,7 @@ python3 -m pip install PACKAGENAME
 
 Now your project should have all it requires.
 
-6. Upload any changes to your Github
+6. Upload any changes to your GitHub
 
 ```bash
 // On changes
