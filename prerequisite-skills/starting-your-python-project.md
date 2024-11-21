@@ -1,5 +1,17 @@
 # Starting Your Python Project
 
+**0. Set Up Your Visual Studio Code**
+
+```
+Open Visual Studio Code
+File >> New Window
+
+(In your new window)
+File >> Open Folder >> Right Click on an Empty Space and Create a New Folder
+     >> Select the newly created folder
+
+```
+
 1. **Learn the Terminal**
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
@@ -9,6 +21,8 @@
 2. **Create a Github Repository and Clone it onto your drive**
 
 Git + Github is a good way to do version control so that you can go back to your previous states of your program without worrying about `CTRL+Z`.&#x20;
+
+## DO NOT CLONE A REPOSITORY INSIDE ANOTHER REPOSITORY
 
 {% hint style="info" %}
 #### Creating a Private GitHub Repository
