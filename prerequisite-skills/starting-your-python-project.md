@@ -69,9 +69,9 @@ Git + Github is a good way to do version control so that you can go back to your
 3. **(Windows Only) Enable your computer to run scripts**
 
 {% hint style="info" %}
-1. **Open PowerShell as Administrator**:
+1) **Open PowerShell as Administrator**:
    * Press `Win + X` and select **Windows PowerShell (Admin)** or **Windows Terminal (Admin)** if you're using Windows Terminal.
-2.  **Check Current Execution Policy**:
+2)  **Check Current Execution Policy**:
 
     * In the PowerShell window, type the following command and press Enter:
 
@@ -80,7 +80,7 @@ Git + Github is a good way to do version control so that you can go back to your
     ```
 
     * This will show you the current execution policy. By default, it might be set to `Restricted`.
-3.  **Set Execution Policy**:
+3)  **Set Execution Policy**:
 
     * To allow scripts to run, you can set the execution policy to `RemoteSigned`
 
@@ -132,6 +132,22 @@ source myenv/bin/activate
 
 To Deactivate to `venv` you can simply run `deactivate` on your terminal
 {% endhint %}
+
+4a. Create a `.gitignore` file
+
+With our virtual environment set up, please create a new file within the main folder of your repository not inside `myenv`
+
+The file should be called `.gitignore`
+
+This file will tell git to ignore the list of folders and files we write within it
+
+**Contents to be written in .gitignore**
+
+```
+myenv/
+```
+
+_By having this in your `.gitignore`, git will automatically not track changes in your virtual environment to upload to GitHub._
 
 5. With your virtual environment activated, **Install your libraries/dependencies/modules**
 
