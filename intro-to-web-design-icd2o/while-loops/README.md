@@ -16,7 +16,7 @@ while (condition) {
 let i = 0;
 
 while (i < 10) {
-  console.log("The number is " + i);
+  console.log(`The number is ${i}`);
   i++;
 }
 console.log("The program is finished");
