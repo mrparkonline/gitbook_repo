@@ -18,18 +18,18 @@ Iterative algorithms play a crucial role in software development, enabling effic
 
 1. Any iteration problem can be solved with a while loop, but not all for loops can solve while loop based solution.\
    \
-   _A while loop can have a complex condition that a for loop can't mimic._\
+   &#xNAN;_&#x41; while loop can have a complex condition that a for loop can't mimic._\
    \
    _A while loop can technically go on infinitely while its condition is true, but a for loop is almost always a finite loop._\
 
 2. A for loop in Python is often considered to be more efficient in terms of performance compared to a while loop.\
    \
-   _Their performance is similar and also dependent on the code block, but a for loop does not need to check a condition after each iteration to determine if they need to execute their code block._\
+   &#xNAN;_&#x54;heir performance is similar and also dependent on the code block, but a for loop does not need to check a condition after each iteration to determine if they need to execute their code block._\
    \
    _Most often for loops are used in scenarios where the programmer knows the number of times they will iterate._\
 
 3. Nesting a loop more than two or three levels are to be avoided.\
    \
-   _Some solutions and algorithms cannot avoid going deeper than 3 levels due to its complexity. However, it is a good practice to not write solution that goes beyond 2 or 3 levels of nesting._
+   &#xNAN;_&#x53;ome solutions and algorithms cannot avoid going deeper than 3 levels due to its complexity. However, it is a good practice to not write solution that goes beyond 2 or 3 levels of nesting._
 
 [^1]: In Python, iterable objects are data structures that can be looped over or iterated through to access their elements one at a time.

@@ -20,7 +20,7 @@ Outputs
 <__main__.Employee object at 0x000001DBB695FB50>
 ```
 
-This occurs because we did not code a behaviour for our objects when they are used in _**String Scenarios.**_** We must override two functions:** [**`str()`**](https://docs.python.org/3/library/functions.html#func-str) **and** [**`repr()`**](https://docs.python.org/3/library/functions.html#repr)**.**
+This occurs because we did not code a behaviour for our objects when they are used in _**String Scenarios.**_**&#x20;We must override two functions:** [**`str()`**](https://docs.python.org/3/library/functions.html#func-str) **and** [**`repr()`**](https://docs.python.org/3/library/functions.html#repr)**.**
 
 {% hint style="info" %}
 To make an object printable.

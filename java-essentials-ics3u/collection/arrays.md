@@ -55,7 +55,7 @@ Mutable means that the object has the ability to change without recreation.
 An immutable data type can only be changed by having their variables reassigned to a new value.
 
 {% hint style="info" %}
-**Example: **_**Strings are Immutable**_
+**Example:&#x20;**_**Strings are Immutable**_
 
 `String name = "Jim";`
 
