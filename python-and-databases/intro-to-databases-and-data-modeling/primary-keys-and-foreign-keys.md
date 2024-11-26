@@ -1,5 +1,7 @@
 # Primary Keys and Foreign Keys
 
+## Primary Key
+
 A **primary key** is a unique identifier for each record in a database table.&#x20;
 
 * It ensures that each record can be uniquely identified and retrieved.&#x20;
@@ -14,6 +16,14 @@ A **primary key** is a unique identifier for each record in a database table.&#x
 | ---------- | ------------ | --------------- |
 | 1          | John Doe     | 123 Elm St      |
 | 2          | Jane Smith   | 456 Oak St      |
+
+### Primary Key's Purpose
+
+* **Uniqueness**: Ensures each record in the table is unique.
+* **Indexing**: Often used to create an index, which improves the speed of data retrieval operations.
+* **Data Integrity**: Prevents duplicate records and ensures that each record can be uniquely identified.
+
+## Foreign Key
 
 A **foreign key** is a column or a set of columns in one table that uniquely identifies a row of another table.&#x20;
 
@@ -30,9 +40,19 @@ A **foreign key** is a column or a set of columns in one table that uniquely ide
 | 2       | 2          | 102       | 3        |
 | 3       | 1          | 103       | 2        |
 
-### Key Concepts
+### Foreign Key's Purpose
 
+* **Relationships**: Establishes and enforces relationships between tables.
+* **Referential Integrity**: Ensures that the value in the foreign key column matches a value in the primary key column of the referenced table, maintaining consistency across the database.
 
+## Referential Integrity
 
+**Referential integrity** is a property of data stating that all its references are valid.&#x20;
 
+In relational databases, it ensures that relationships between tables remain consistent.&#x20;
 
+For example, if a record in the `Orders` table references a `CustomerID` in the `Customers` table, referential integrity ensures that the `CustomerID` exists in the `Customers` table.
+
+* **Prevents Orphan Records**: Ensures that a foreign key value always points to an existing record in the referenced table.
+* **Cascading Actions**: Supports cascading updates and deletes. For example, if a customer is deleted, all related orders can also be deleted automatically.
+* **Consistency**: Maintains the logical consistency of the database by ensuring that relationships between tables are preserved.
