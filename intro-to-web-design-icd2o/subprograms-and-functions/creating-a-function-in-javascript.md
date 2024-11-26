@@ -1,5 +1,9 @@
 # Creating a Function in JavaScript
 
+{% embed url="https://www.youtube.com/watch?v=Qki82Ns6tQs" %}
+
+
+
 We have seen examples of built-in functions in JavaScript:
 
 * `prompt()` allows us to grab user inputted values to assign to a variable
