@@ -88,7 +88,7 @@ Result:
 | OrderID | Name        | ItemOrdered | TotalAmount |
 | ------- | ----------- | ----------- | ----------- |
 | 1       | John Doe    | Apples      | 15          |
-| 1       | John Doe    | Organes     | 15          |
+| 1       | John Doe    | Oranges     | 15          |
 | 2       | Jane Smith  | Bananas     | 20          |
 | 2       | Jane Smith  | Grapes      | 20          |
 | 2       | Jane Smith  | Apples      | 20          |
@@ -119,3 +119,46 @@ Result:
 | 2       | Apples      |
 | 3       | Oranges     |
 
+#### 3NF -> _Remove Transitive dependencies_
+
+* Non-key attributes should not depend on other non-key attributes.
+  * Both tables: `Orders` and `OrderItem` are already 3NF.
+
+### Example Table that is 2NF but not 3NF
+
+| StudentID | CourseID | CourseName | InstructorID | InstructorName |
+| --------- | -------- | ---------- | ------------ | -------------- |
+| 1         | 101      | Math       | 1001         | Dr. Smith      |
+| 1         | 102      | History    | 1002         | Dr. Brown      |
+| 2         | 101      | Math       | 1001         | Dr. Smith      |
+| 2         | 103      | Science    | 1003         | Dr. White      |
+
+1NF Properties:
+
+* The table is atomic because each attribute in a record holds one value
+* There are no repetitive columns
+
+2NF Properties
+
+* All non-key columns are dependent on composite primary keys (StudentID, CourseID)
+
+**This table fails to be 3NF because `InstructorName depends on InstructorID` not being dependent on both `StudentID and CourseID`**
+
+To normalize this table to 3NF, we need to remove the **transitive dependency** by creating a separate table for instructors:
+
+**`StudentsCourses Table:`**
+
+| StudentID | CourseID | CourseName | InstructorID |
+| --------- | -------- | ---------- | ------------ |
+| 1         | 101      | Math       | 1001         |
+| 1         | 102      | History    | 1002         |
+| 2         | 101      | Math       | 1001         |
+| 2         | 103      | Science    | 1003         |
+
+**`Instructors Table:`**
+
+| InstructorID | InstructorName |
+| ------------ | -------------- |
+| 1001         | Dr. Smith      |
+| 1002         | Dr. Brown      |
+| 1003         | Dr. White      |

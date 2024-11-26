@@ -23,6 +23,21 @@ A **primary key** is a unique identifier for each record in a database table.&#x
 * **Indexing**: Often used to create an index, which improves the speed of data retrieval operations.
 * **Data Integrity**: Prevents duplicate records and ensures that each record can be uniquely identified.
 
+### Composite Primary Key
+
+A composite primary key is a primary key that consists of two or more columns in a table.&#x20;
+
+This type of key is used when a single column is not sufficient to uniquely identify each row in the table.&#x20;
+
+Instead, the combination of the values in these columns must be unique for each row.
+
+#### When to Use Composite Primary Keys
+
+Composite primary keys are typically used in situations where:
+
+* The table represents a many-to-many relationship between two entities.
+* No single column can uniquely identify a row, but a combination of columns can.
+
 ## Foreign Key
 
 A **foreign key** is a column or a set of columns in one table that uniquely identifies a row of another table.&#x20;

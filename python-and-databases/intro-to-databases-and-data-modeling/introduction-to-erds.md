@@ -1,5 +1,9 @@
 # Introduction to ERDs
 
+{% embed url="https://www.youtube.com/watch?v=xsg9BDiwiJE" %}
+
+
+
 An **Entity-Relationship Diagram (ERD)** is a visual representation of the entities, attributes, and relationships within a database.&#x20;
 
 ERDs are used to model the logical structure of databases and help in designing and understanding the database schema[^1].
