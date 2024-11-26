@@ -73,15 +73,49 @@ Their information should have been separated into multiple columns of `PhoneNumb
 
 * Achieved when the table is in 2NF and all columns are dependent only on the primary key, not on other non-key columns.
 
-### Example Table Normalized
+### Normalizing a Table Example
 
-| OrderIB | Name       | Address    | ProductID | ProductName | Quantity |
-| ------- | ---------- | ---------- | --------- | ----------- | -------- |
-| 1       | John Doe   | 123 Elm St | 101       | Apple       | 5        |
-| 2       | Jane Smith | 456 Oak St | 102       | Orange      | 3        |
-| 3       | John Doe   | 123 Elm St | 103       | Banana      | 2        |
+| OrderID | Name        | ItemsOrdered            | TotalAmount |
+| ------- | ----------- | ----------------------- | ----------- |
+| 1       | John Doe    | Apple, Oranges          | 15          |
+| 2       | Jane Smith  | Bananas, Grapes, Apples | 20          |
+| 3       | Bob Johnson | Oranges                 | 5           |
 
-#### 1NF
+#### 1NF -> _Make sure that each column contains atomic values and no repeating groups_
 
+Result:
 
+| OrderID | Name        | ItemOrdered | TotalAmount |
+| ------- | ----------- | ----------- | ----------- |
+| 1       | John Doe    | Apples      | 15          |
+| 1       | John Doe    | Organes     | 15          |
+| 2       | Jane Smith  | Bananas     | 20          |
+| 2       | Jane Smith  | Grapes      | 20          |
+| 2       | Jane Smith  | Apples      | 20          |
+| 3       | Bob Johnson | Oranges     | 5           |
+
+#### 2NF -> _Remove Partial Dependencies_
+
+* non-key attributes should depend on primary key
+  * Make `TotalAmount` depend on `OrderID`
+  * Split the table into `Orders(OrderID, Name, TotalAmount)` and `OrderItems(OrderID, ItemOrdered)`
+
+**`Orders Table`**
+
+| OrderID | Name        | TotalAmount |
+| ------- | ----------- | ----------- |
+| 1       | John Doe    | 15          |
+| 2       | Jane Smith  | 20          |
+| 3       | Bob Johnson | 5           |
+
+**`OrderItems Table`**
+
+| OrderID | ItemOrdered |
+| ------- | ----------- |
+| 1       | Apples      |
+| 1       | Oranges     |
+| 2       | Bananas     |
+| 2       | Grapes      |
+| 2       | Apples      |
+| 3       | Oranges     |
 

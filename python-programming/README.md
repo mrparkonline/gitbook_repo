@@ -45,7 +45,7 @@
     * [x] Interpreter
     * [ ] Virtual Machine
 * [ ] Coding 101
-  * [ ] Binary
+  * [x] Binary
     * [x] Bit, Byte, Binary, Hexadecimal
     * [x] How does a computer represent data
   * [ ] Logic Gates

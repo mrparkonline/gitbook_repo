@@ -18,15 +18,15 @@
 * [ ] Schema
   * [ ] Three Levels: Conceptual, Logical, Physical
 * [ ] Data Dictionary (A2.6 - A2.8)
-* [ ] Relationship within Database
-  * [ ] One-to-one
-  * [ ] One-to-many
-  * [ ] many-to-many
+* [x] Relationship within Database
+  * [x] One-to-one
+  * [x] One-to-many
+  * [x] many-to-many
 * [ ] Redundant Data
-* [ ] Referential Integrity in a normalized database
-  * [ ] 1NF
-  * [ ] 2NF
-  * [ ] 3NF
+* [x] Referential Integrity in a normalized database
+  * [x] 1NF
+  * [x] 2NF
+  * [x] 3NF
   * [ ] Characteristics of a normalized database
 * [ ] ERD Diagram
 * [ ] Role of a DB administrator
@@ -63,5 +63,5 @@
   * [ ] Inner Join
 * [ ] Evaluate the appropriateness of the different data types.
 * [ ] Problem Solving:
-  * [ ] Generating 3NF database
+  * [x] Generating 3NF database
 
