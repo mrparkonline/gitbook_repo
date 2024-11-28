@@ -57,12 +57,16 @@ from random import seed
 from random import randrange
 
 seed(1)
-seq = [randrange(1,100) for x in range(20)]
-print('Random List:\n', seq)
+#seq = [randrange(1,100) for x in range(20)]
+seq = []
+for x in range(20):
+    seq.append(randrange(1,100))
+    
+print(f"Random List: \n{seq}")
 
-print('--\nSearch %d in seq: Found at %d' % (18, linSearch(seq, 18)))
-print('Search %d in seq: Found at %d' % (61, linSearch(seq, 61)))
-print('Search %d in seq: Found at %d' % (42, linSearch(seq, 42)))
+print(f"--\nSearch {18} in seq: Found at {linSearch(seq, 18)}")
+print(f"Search 61 in seq: Found at {linSearch(seq, 61)}")
+print(f"Search 42 in seq: Found at {linSearch(seq, 42)}")
 ```
 
 ```
