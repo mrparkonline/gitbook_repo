@@ -80,7 +80,7 @@ Search 42 in seq: Found at -1
 
 ```python
 #Method 2
-def linSearch(seq, target):
+def linSearch(array, target):
 	ctr = 0
 	while ctr < len(array):
 		if array[ctr] == target:
