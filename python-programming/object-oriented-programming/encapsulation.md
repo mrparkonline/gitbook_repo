@@ -95,6 +95,10 @@ print(member1.acc)
 
 ## What are `getters` and `setters`?
 
+{% hint style="danger" %}
+**PLEASE DEFINE GETTERS BEFORE SETTERS**
+{% endhint %}
+
 ### Getters
 
 Getters retrieve value of a private attribute.

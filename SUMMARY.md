@@ -48,6 +48,7 @@
     * [Override Magic Methods](python-programming/object-oriented-programming/override-magic-methods.md)
     * [Case Study: 2D Vectors](python-programming/object-oriented-programming/case-study-2d-vectors.md)
     * [Case Study: Deck of Cards](python-programming/object-oriented-programming/case-study-deck-of-cards.md)
+    * [Exercise](python-programming/object-oriented-programming/exercise.md)
   * [Competitive Programming](python-programming/competitive-programming/README.md)
     * [Is This Sum Possible?](python-programming/competitive-programming/is-this-sum-possible/README.md)
       * [Is the dataset sorted?](python-programming/competitive-programming/is-this-sum-possible/is-the-dataset-sorted.md)
