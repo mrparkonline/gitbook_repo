@@ -94,6 +94,94 @@ __mul__() --> addition operator (*)
 __div__() --> addition operator (/)
 ```
 
+### Make our objects comparable
+
+```
+__eq__(self, other): Checks if two objects are equal (==).
+__ne__(self, other): Checks if two objects are not equal (!=).
+__lt__(self, other): Checks if the object is less than another (<).
+__le__(self, other): Checks if the object is less than or equal to another (<=).
+__gt__(self, other): Checks if the object is greater than another (>).
+__ge__(self, other): Checks if the object is greater than or equal to another (>=).
+```
+
+```python
+# Example Medals based on placement
+# Gold > Silver > Bronze > All of the rest
+class Medals:
+    def __init__(self, rank):
+        self.__colour = self.setColour(rank)
+        
+    @property
+    def colour(self):
+        return self.__colour
+    
+    @colour.setter
+    def colour(self, rank):
+        self.__colour = self.setColour(rank)
+    
+    def setColour(self, rank):
+        if rank == 1:
+            self.__colour = "Gold"
+        elif rank == 2:
+            self.__colour = "Silver"
+        elif rank ==3 :
+            self.__colour = "Bronze"
+        else:
+            self.__colour = None
+        
+        return self.__colour
+
+    def __eq__(self, other_medal):
+        return self.colour == other_medal.colour
+    
+    def __ne__(self, other_medal):
+        return self.colour != other_medal.colour
+    
+    def __lt__(self, other_medal):
+        if self.colour == "Gold":
+            return False
+        elif self.colour == "Silver":
+            return other_medal.colour == "Gold"
+        elif self.colour == "Bronze":
+            return other_medal.colour in {"Silver", "Gold"}
+        else:
+            return other_medal.colour in {"Bronze", "Silver", "Gold"}
+    
+    def __le__(self, other_medal):
+        return self.__lt__(other_medal) or self.__eq__(other_medal)
+    
+    def __gt__(self, other_medal):
+        if self.colour != other_medal.colour:
+            if self.colour == "Gold":
+                return True
+            elif self.colour == "Silver":
+                return other_medal.colour != "Gold"
+            elif self.colour == "Bronze":
+                return other_medal.colour not in {"Gold", "Silver"}
+        else:
+            return False
+    
+    def __ge__(self, other_medal):
+        return self.__gt__(other_medal) or self.__eq__(other_medal)
+        
+    
+v1 = Medals(1)
+v2 = Medals(2)
+v3 = Medals(3)
+v4 = Medals(3)
+v5 = Medals(5)
+
+print(v1 != v2) # True
+print(v3 == v4) # True
+print(v1 < v2) # False
+print(v3 < v1) # True
+print(v5 < v1) # True
+print(v5 <= v4) # True
+```
+
+
+
 ### Contain - The `in` operator
 
 ```
