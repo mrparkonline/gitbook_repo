@@ -88,11 +88,41 @@ class Member:
 # end of class Member
 
 member1 = Member("Jasper Park", 1)
-member1.name = "Mr . park"
+member1.name = "Mr. Park"
 print(member1)
 print(member1.acc)
 ```
 
-## What are `setters` and `getters`?
+## What are `getters` and `setters`?
 
-asd
+### Getters
+
+Getters retrieve value of a private attribute.
+
+In Python, we use a decorator (use of @ symbol)
+
+```python
+@property # A decorator in python for getter methods
+def name(self):
+    return self._name
+```
+
+The following code snippet above is a getter for the attribute.
+
+An object can now reference an attribute called `name` by invoking `.name` without the use of a method call with brackets like: `.name()`.
+
+Creating a getter allows us to access variables that are encapsulated; moreover, you can create attributes that are read-only.
+
+### Setters
+
+Setters set or update a private attribute.
+
+```python
+@name.setter
+def name(self, assigned_value):
+    self._name = assigned_value.lower().replace(" ", '')
+```
+
+Setters are important because we get to control how an encapsulated can be changed.
+
+The `name` attribute can still be updated by using the `=` operator; however, it will execute the setter we created above.
