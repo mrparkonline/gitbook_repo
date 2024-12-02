@@ -180,12 +180,4 @@ print(v5 < v1) # True
 print(v5 <= v4) # True
 ```
 
-
-
-### Contain - The `in` operator
-
-```
-// Some code
-```
-
-TBC
+_If you need more overrides for built-in features of Python, please let me know!_
