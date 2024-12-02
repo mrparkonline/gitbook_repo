@@ -4,10 +4,10 @@
 
 ```python
 class Employee: 
-    def __init__(self, name, age, id): 
+    def __init__(self, name, age, eid): 
         self.name = name 
         self.age = age
-        self.id = id 
+        self.eid = eid 
 
 employeeObject = Employee('employeeName', 20, 1101)
 
@@ -39,16 +39,16 @@ The **`__repr__()`** method returns a more information-rich, or official, string
 
 ```python
 class Employee: 
-    def __init__(self, name, age, id): 
+    def __init__(self, name, age, eid): 
         self.name = name 
         self.age = age
-        self.id = id 
+        self.eid = eid 
     
     def __str__(self):
-        return f"{self.id}: {self.name}"
+        return f"{self.eid}: {self.name}"
     
     def __repr__(self):
-        return f'Employee(name = {self.name}, age = {self.age}, id = {self.id})'
+        return f'Employee(name = {self.name}, age = {self.age}, id = {self.eid})'
 
 employeeObject = Employee('employeeName', 20, 1101)
 
