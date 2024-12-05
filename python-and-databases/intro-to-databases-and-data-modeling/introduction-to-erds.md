@@ -31,7 +31,13 @@ An **entity** is a real-world object or concept that can have data stored about 
 
 ## Types of Relationships
 
+{% embed url="https://www.youtube.com/watch?v=9dtSEavLIWA" %}
+
+
+
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Relationships</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 **One-to-One (1:1)**
 
@@ -39,17 +45,29 @@ In a one-to-one relationship, each instance of Entity A is associated with one i
 
 For example, each `Person` has one `Passport`, and each `Passport` is assigned to one `Person`.
 
+```
+Person | -- | Passport
+```
+
 **One-to-Many (1:M)**
 
 In a one-to-many relationship, each instance of Entity A can be associated with multiple instances of Entity B, but each instance of Entity B is associated with only one instance of Entity A.&#x20;
 
 For example, one `Customer` can place many `Orders`, but each `Order` is placed by one `Customer`.
 
+```
+Customer | -- < Orders
+```
+
 **Many-to-Many (M:N)**
 
 In a many-to-many relationship, each instance of Entity A can be associated with multiple instances of Entity B, and vice versa.&#x20;
 
 For example, `Students` can enroll in many `Courses`, and each `Course` can have many `Students`.
+
+```
+Students > -- < Courses
+```
 
 ## Three Levels/Types of ERD
 
