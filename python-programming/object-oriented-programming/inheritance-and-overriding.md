@@ -4,6 +4,16 @@
 
 In object-oriented programming (OOP), inheritance is a mechanism that allows one class (called the subclass or derived class) to inherit the properties and behaviors of another class (called the superclass or base class). Inheritance is a key concept in OOP that facilitates code reuse and promotes the creation of a hierarchical structure for organizing and modeling software.
 
+### Advantages of Inheritance
+
+* Inheritance minimizes code repetition -> Since a child class inherits all attributes and methods from the parent, the child class does not need to implement the same attributes and methods
+* Inheritance promotes organization and hierarchy -> Inheritance cause different classes to be related to each other based on how each class inherits from one and another
+
+### Disadvantages of Inhertiance
+
+* Inheritance cause classes to be dependent -> If a parent class has inefficiencies and errors, then a child inherits the same inefficiencies and errors
+* Inheritance causes design issues -> By trying to create classes dependent to each other, you may not be able to create a class that properly satisfies a program requirement because the class must follow the rules of the parents it is attached to.
+
 {% hint style="info" %}
 “When I see a bird that walks like a duck and swims like a duck and quacks like a duck, I call that bird a duck.”
 
