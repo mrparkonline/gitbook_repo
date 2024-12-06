@@ -98,7 +98,3 @@ connection.close()
 ```
 Result: [('Buddy', 'Treats', 8), ('Bella', 'Food', 7), ('Maggie', 'Treats', 8)]
 ```
-
-Exercise
-
-Connected Readings
