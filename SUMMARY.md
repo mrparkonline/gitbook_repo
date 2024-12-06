@@ -86,6 +86,7 @@
       * [Summing up an Attribute](python-and-databases/what-is-sql/aggregate-queries/summing-up-an-attribute.md)
       * [Average of an Attribute](python-and-databases/what-is-sql/aggregate-queries/average-of-an-attribute.md)
       * [Minimum/Maximum of an Attribute](python-and-databases/what-is-sql/aggregate-queries/minimum-maximum-of-an-attribute.md)
+    * [Interacting with Multiple Table](python-and-databases/what-is-sql/interacting-with-multiple-table.md)
     * [External Resource](python-and-databases/what-is-sql/external-resource.md)
 * [⌨️ ICS4U1 Content (2023)](ics4u1-content-2023/README.md)
   * [🍎 02 - Programming In Python](02-programming-in-python/README.md)
