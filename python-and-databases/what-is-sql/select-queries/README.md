@@ -66,6 +66,8 @@ The following statement will generate:
 
 <table data-full-width="true"><thead><tr><th>name</th><th>pkmn_type1</th><th>pkmn_type2</th><th>number</th></tr></thead><tbody><tr><td>Bulbasaur</td><td>Grass</td><td>Poison</td><td>1</td></tr><tr><td>Charmander</td><td>Fire</td><td></td><td>4</td></tr><tr><td>Squirtle</td><td>Water</td><td></td><td>7</td></tr></tbody></table>
 
+_In SQL, the asterisk (\*) is used in a SELECT statement to indicate that you want to retrieve all columns from the specified table(s). This is a shorthand way of selecting every column without having to list each one individually._
+
 #### Python Code
 
 ```python

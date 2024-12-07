@@ -1,4 +1,4 @@
-# Sum & Average Queries
+# Sum, Average, Min/Max Queries
 
 Both the sum and average queries can help us summarize and analyze numerical data in a table.
 
@@ -40,4 +40,18 @@ SELECT SUM(Sold) FROM Products;
 
 ```sql
 SELECT AVG(Price) FROM Products;
+```
+
+## Minimum  and Maximum  from an Attribute
+
+The `MIN()` function returns the smallest value of the selected column.
+
+The `MAX()` function returns the largest value of the selected column.
+
+### Query Format
+
+```sql
+SELECT MIN(column_name) FROM table_name WHERE condition;
+
+SELECT MAX(column_name) FROM table_name WHERE condition;
 ```
