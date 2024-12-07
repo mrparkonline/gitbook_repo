@@ -1,2 +1,0 @@
-# Summing up an Attribute
-

@@ -1,2 +1,0 @@
-# Average of an Attribute
-

@@ -2,6 +2,12 @@
 
 Aggregate queries in SQL use aggregate functions to perform calculations on a set of values, returning a single value.
 
+{% hint style="info" %}
+Aggregate queries are often paired with `SELECT` queries
+
+These aggregate queries perform calculations on a selected attribute and return a single value, which is useful for summarizing and analyzing data.
+{% endhint %}
+
 The common queries we will use are the following:
 
 * **`COUNT()`**: Returns the number of rows.
