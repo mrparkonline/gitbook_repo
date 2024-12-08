@@ -1,4 +1,4 @@
-# Working with Aggregate Queries
+# Exercise
 
 _Lesson 5 Directory_
 
@@ -28,14 +28,9 @@ _Lesson 5 Directory_
 (10, 'Milk', 56, None)
 ```
 
-## Exercises
+## Aggregate Queries with Grouping Exercise
 
-Determine the query for the following analysis.
-
-1. Determine the total number of records within the `orders` table
-2. Determine the number of unique products sold
-3. Determine the number of our customer base
-4. Determine the total number of goods sold
-5. Determine the average amount of goods sold
-6. Determine the single record with the most items sold
-7. Determine the single record with the least items sold
+1. Display the total number of each product sold
+2. Display the total number of times a customer placed an order
+3. Display the minimum, maximum, and average amount of each product sold
+4. Display the frequency of each product bought by a customer

@@ -86,6 +86,7 @@
       * [Sum, Average, Min/Max Queries](python-and-databases/what-is-sql/aggregate-queries/sum-average-min-max-queries.md)
       * [Working with Aggregate Queries](python-and-databases/what-is-sql/aggregate-queries/working-with-aggregate-queries.md)
       * [Power of using Groups](python-and-databases/what-is-sql/aggregate-queries/power-of-using-groups.md)
+      * [Exercise](python-and-databases/what-is-sql/aggregate-queries/exercise.md)
     * [Interacting with Multiple Table](python-and-databases/what-is-sql/interacting-with-multiple-table/README.md)
       * [Join Exercises](python-and-databases/what-is-sql/interacting-with-multiple-table/join-exercises.md)
     * [External Resource](python-and-databases/what-is-sql/external-resource.md)
