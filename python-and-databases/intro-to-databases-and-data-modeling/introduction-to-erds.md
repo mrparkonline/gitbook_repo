@@ -69,7 +69,7 @@ For example, `Students` can enroll in many `Courses`, and each `Course` can have
 Students > -- < Courses
 ```
 
-## Three Levels/Types of ERD
+## Three Levels of Schema / Types of ERD
 
 1. Conceptual (High Level, General Purpose)
 2. Logical (Focuses more on the structure of data)

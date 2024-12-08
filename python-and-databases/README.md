@@ -15,20 +15,20 @@
 * [ ] DBMS vs RDBMS
   * [ ] DBMS functions + tools
   * [ ] DBMS promotes data security
-* [ ] Schema
-  * [ ] Three Levels: Conceptual, Logical, Physical
+* [x] Schema
+  * [x] Three Levels: Conceptual, Logical, Physical
 * [ ] Data Dictionary (A2.6 - A2.8)
 * [x] Relationship within Database
   * [x] One-to-one
   * [x] One-to-many
   * [x] many-to-many
-* [ ] Redundant Data
+* [x] Redundant Data
 * [x] Referential Integrity in a normalized database
   * [x] 1NF
   * [x] 2NF
   * [x] 3NF
-  * [ ] Characteristics of a normalized database
-* [ ] ERD Diagram
+  * [x] Characteristics of a normalized database
+* [x] ERD Diagram
 * [ ] Role of a DB administrator
 * [ ] End Users interacting with a Database
 * [ ] Different methods of DB recovery
@@ -50,18 +50,18 @@
     * [ ] Query Use
       * [x] Boolean Operators (AND, OR, NOT)
       * [x] Parameter Queries
-      * [ ] Derived Fields (Making new dynamic columns)
+      * [x] Derived Fields (Making new dynamic columns)
 * [ ] Database Terms
   * [x] Table
   * [x] Record
   * [x] Field
-  * [ ] Primary Key
+  * [x] Primary Key
   * [ ] Secondary Key
-  * [ ] Foreign Key
+  * [x] Foreign Key
   * [ ] Candidate Key
-  * [ ] Composite Primary Key
-  * [ ] Inner Join
-* [ ] Evaluate the appropriateness of the different data types.
-* [ ] Problem Solving:
+  * [x] Composite Primary Key
+  * [x] Inner Join
+* [x] Evaluate the appropriateness of the different data types.
+* [x] Problem Solving:
   * [x] Generating 3NF database
 
