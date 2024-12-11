@@ -10,7 +10,7 @@ Computer science is a multidisciplinary field that encompasses the study of comp
 
 ### What will be covered in this book?
 
-This book will cover materials to meet the expectations of the [**Ontario Grade 12 Computer Science Curriculum**](https://www.edu.gov.on.ca/eng/curriculum/secondary/computer10to12\_2008.pdf)**.**
+This book will cover materials to meet the expectations of the [**Ontario Grade 12 Computer Science Curriculum**](https://www.edu.gov.on.ca/eng/curriculum/secondary/computer10to12_2008.pdf)**.**
 
 > **Course Description:**
 >
@@ -25,8 +25,6 @@ This book will cover materials to meet the expectations of the [**Ontario Grade 
 
 ### What programming language will be used?
 
-During the first revision of the book, [**Python**](https://www.python.org/) will be used as the language of choice to deliver the content material.&#x20;
-
-_In future revisions, it is hope to add multiple programming languages to accommodate all learners._
-
-## What is Computer Science
+* Python
+* Java
+* JavaScript
