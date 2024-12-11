@@ -31,10 +31,3 @@ There are two fundamental topics in algorithm design:
 
 * How to search for a value in a dataset
 * How to sort an unsorted dataset
-
-To prepare for this chapter please the following chapters first:
-
-1. [Run Time Analysis](broken-reference)
-2. [Big - O Notation](big-o-notation.md)
-3. [Linear Search](basic-algorithms/linear-search.md)
-4. [Basic Sorting Algorithms](basic-algorithms/basic-sorting-algorithms.md)
