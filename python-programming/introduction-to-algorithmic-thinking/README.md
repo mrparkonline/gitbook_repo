@@ -1,4 +1,4 @@
-# Introduction to Algorithmic Thinking
+# ⏳ Introduction to Algorithmic Thinking
 
 An **algorithm** is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer. In simpler terms, it’s a step-by-step procedure for solving a problem or accomplishing a task.
 
@@ -34,7 +34,7 @@ There are two fundamental topics in algorithm design:
 
 To prepare for this chapter please the following chapters first:
 
-1. [Run Time Analysis](../../03-complexity-and-algorithms/run-time-analysis.md)
+1. [Run Time Analysis](broken-reference)
 2. [Big - O Notation](big-o-notation.md)
 3. [Linear Search](basic-algorithms/linear-search.md)
 4. [Basic Sorting Algorithms](basic-algorithms/basic-sorting-algorithms.md)

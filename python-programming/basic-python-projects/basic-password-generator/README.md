@@ -77,11 +77,11 @@ print(f"The randomly generated password is: {password}")
   * `special`: Contains ASCII values for special characters (33-47, 58-64, 91-96, 123-126).
 
 {% hint style="info" %}
-[What is ASCII?](https://en.wikipedia.org/wiki/ASCII#Printable\_characters)
+[What is ASCII?](https://en.wikipedia.org/wiki/ASCII#Printable_characters)
 
 ASCII stands for American Standard Code for Information Interchange.
 
-ASCII is a character encoding standard that assigns numeric codes to represent characters. Each character, like letters ('A' to 'Z', 'a' to 'z'), digits ('0' to '9'), and special symbols, has a unique integer value in the [**ASCII table**](https://www.cs.cmu.edu/\~pattis/15-1XX/common/handouts/ascii.html).&#x20;
+ASCII is a character encoding standard that assigns numeric codes to represent characters. Each character, like letters ('A' to 'Z', 'a' to 'z'), digits ('0' to '9'), and special symbols, has a unique integer value in the [**ASCII table**](https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html).&#x20;
 
 By using the `chr()` function in Python, you can convert these integer values to their corresponding characters, allowing for text representation in digital communications and computing.
 {% endhint %}
@@ -114,9 +114,9 @@ The randomly generated password is: qK5g8sHj
 
 ### Connected Readings
 
-* **Membership Operation (**[**Link**](../../02-programming-in-python/conditionals/comparison-logical-and-membership-operators.md)**)**
-* **Strings (**[**Link**](../../02-programming-in-python/strings/)**)**
-* **List (**[**Link**](../../02-programming-in-python/tuples-and-lists/)**)**
+* **Membership Operation (**[**Link**](../../python-basics/conditionals/comparison-logical-and-membership-operators.md)**)**
+* **Strings (**[**Link**](../../collections/strings/)**)**
+* **List (**[**Link**](../../collections/tuples-and-lists/)**)**
 
 ### General Password Tips
 

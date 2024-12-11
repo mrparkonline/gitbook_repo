@@ -24,7 +24,7 @@ If we do not need to remember our previous state of our program, we often store 
 If we want to save data from our program to be accessible without the program or we want to remember what happened in the previous execution, we would need to create an external file or create and use a database.
 {% endhint %}
 
-### Option 1 - Using [lists](../../02-programming-in-python/tuples-and-lists/)
+### Option 1 - Using [lists](tuples-and-lists/)
 
 * [ ] Items are not consistent in data type
 * [ ] Items can repeat
@@ -55,7 +55,7 @@ example[2] = 5 # now example is: ['Marshall', 'Park', 5, ['Freya', 'Goji'], 'Whi
 
 Lists are built-in data type in Python that offers strong set of operations and methods to provide a way to have data collection.
 
-### Option 2 - Using [sets](../../02-programming-in-python/sets.md)
+### Option 2 - Using [sets](sets.md)
 
 {% embed url="https://www.youtube.com/watch?v=JEbl_BRqMBg" %}
 
@@ -67,7 +67,7 @@ Lists are built-in data type in Python that offers strong set of operations and 
   * [ ] Sets also cannot contain [mutable data types](https://realpython.com/python-mutable-vs-immutable-types/)
 * [ ] There should be no duplicates; each items are unique
 * [ ] Order of insertion does not matter
-* [ ] When you need an implementation of a [mathematical set](https://en.wikipedia.org/wiki/Set\_\(mathematics\)) so that you can perform [set operations](https://www.cuemath.com/algebra/operations-on-sets/) ([Python documentation link](https://docs.python.org/3.8/library/stdtypes.html#set-types-set-frozenset))
+* [ ] When you need an implementation of a [mathematical set](https://en.wikipedia.org/wiki/Set_\(mathematics\)) so that you can perform [set operations](https://www.cuemath.com/algebra/operations-on-sets/) ([Python documentation link](https://docs.python.org/3.8/library/stdtypes.html#set-types-set-frozenset))
 * [ ] We can convert a list with duplicate items to set to remove duplicates
 * [ ] Items are still addable and removable in a set
 
@@ -117,7 +117,7 @@ inventory = {
 }
 ```
 
-The code above is an example of using a [dictionary](../../02-programming-in-python/dictionary.md).
+The code above is an example of using a [dictionary](dictionary.md).
 
 A dictionary will always store two types of information for each item in its collection.
 

@@ -1,4 +1,4 @@
-# Python Basics
+# 🍎 Python Basics
 
 This section of the book will cover the basic skills to create variables, obtain keyboard inputs through the console, output data to the console, and do mathematical calculations.
 
@@ -13,7 +13,7 @@ Whenever we name a variable or a function we create an **Identifier**.
 {% hint style="info" %}
 _Rules for Identifiers:_
 
-* Cannot use [**Keywords**](https://www.w3schools.com/python/python\_ref\_keywords.asp) as identifier names&#x20;
+* Cannot use [**Keywords**](https://www.w3schools.com/python/python_ref_keywords.asp) as identifier names&#x20;
 * No punctuation characters&#x20;
 * An identifier should always start with letters (A-Za-z) then followed by alphanumeric characters ... _an identifier cannot start with numbers (0-9)_
 {% endhint %}

@@ -51,7 +51,7 @@ asd
 
 ## Connected Readings
 
-* **Functions (**[**Link**](../../../02-programming-in-python/defining-functions/functions.md)**)**
+* **Functions (**[**Link**](../../defining-functions/functions.md)**)**
 * **Type Hinting Functions (**[**Link**](https://docs.python.org/3/library/typing.html)**)**
-* **List (**[**Link**](../../../02-programming-in-python/tuples-and-lists/list-basics.md)**)**
-* **Dictionary (**[**Link**](../../../02-programming-in-python/dictionary.md)**)**
+* **List (**[**Link**](../../collections/tuples-and-lists/list-basics.md)**)**
+* **Dictionary (**[**Link**](../../collections/dictionary.md)**)**

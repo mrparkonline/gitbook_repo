@@ -8,10 +8,10 @@
 
 Create two factorial calculator programs.&#x20;
 
-* The first should solve it using a [while loop](../../02-programming-in-python/iterations/introduction-to-while-loops.md).&#x20;
-* The other should solve it using a [for loop](../../02-programming-in-python/iterations/introduction-to-for-loops.md).
+* The first should solve it using a [while loop](../../iterations/introduction-to-while-loops.md).&#x20;
+* The other should solve it using a [for loop](../../iterations/introduction-to-for-loops.md).
 
-**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u\_2023F/main/video\_solution/vid17.py)**)**
+**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u_2023F/main/video_solution/vid17.py)**)**
 
 ### 2. Factor Finder
 
@@ -19,7 +19,7 @@ Create two factorial calculator programs.&#x20;
 
 Given an integer input greater than 0 (Assume that your input is greater than 0), print all its factors.
 
-**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u\_2023F/main/video\_solution/vid18.py)**)**
+**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u_2023F/main/video_solution/vid18.py)**)**
 
 ### 3. Prime Number Checker
 
@@ -27,7 +27,7 @@ Given an integer input greater than 0 (Assume that your input is greater than 0)
 
 Given an integer input greater than 1, determine if the inputted integer is a prime number.
 
-**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u\_2023F/main/video\_solution/vid19.py)**)**
+**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u_2023F/main/video_solution/vid19.py)**)**
 
 ### 4. Perfect Numbers
 
@@ -41,7 +41,7 @@ A perfect number is defined when the sum of a number’s proper divisors equal t
 
 Find the total sum of perfect numbers under 10,000.
 
-**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u\_2023F/main/video\_solution/vid20.py)**)**
+**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u_2023F/main/video_solution/vid20.py)**)**
 
 ### 5. The Most Number of Factors
 
@@ -51,9 +51,9 @@ From 1 to N, where N is an integer greater one. We will output the number betwee
 
 Example: From numbers 1 to 5. → The number 4 has the most factors.
 
-**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u\_2023F/main/video\_solution/vid21.py)**)**
+**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u_2023F/main/video_solution/vid21.py)**)**
 
-### 6. Create an Nth [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci\_sequence) finder
+### 6. Create an Nth [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_sequence) finder
 
 {% embed url="https://www.youtube.com/watch?v=3Jp6o-BhDLE" %}
 
@@ -66,4 +66,4 @@ Example.
 * 10th is 55
 * 19th is 4181
 
-**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u\_2023F/main/video\_solution/vid22.py)**)**
+**Solution Code (**[**Link**](https://raw.githubusercontent.com/mrparkonline/ics4u_2023F/main/video_solution/vid22.py)**)**

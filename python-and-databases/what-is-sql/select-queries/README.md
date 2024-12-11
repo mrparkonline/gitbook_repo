@@ -94,7 +94,7 @@ Our Query Result:
 
 ## Understanding `.fetchall()`
 
-When you use `fetchall()` after executing a `SELECT` query in SQLite using Python's `sqlite3` module, the method returns a [list](../../../02-programming-in-python/tuples-and-lists/list-basics.md) of [tuples](../../../02-programming-in-python/tuples-and-lists/tuples.md), where each tuple represents a row from the result set.
+When you use `fetchall()` after executing a `SELECT` query in SQLite using Python's `sqlite3` module, the method returns a [list](../../../python-programming/collections/tuples-and-lists/list-basics.md) of [tuples](../../../python-programming/collections/tuples-and-lists/tuples.md), where each tuple represents a row from the result set.
 
 * If you select multiple columns, each tuple will contain multiple values, corresponding to the selected columns.
 * If you select a single column, each tuple will contain a single value.

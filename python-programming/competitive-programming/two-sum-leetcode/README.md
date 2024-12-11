@@ -42,7 +42,7 @@ Output: [0,1]
 
 ## Problem Requirement Breakdown
 
-* Create a [**function**](../../../02-programming-in-python/defining-functions/functions.md) that can take two arguments:
+* Create a [**function**](../../defining-functions/functions.md) that can take two arguments:
   * A list of integers (we must assume that it will be unsorted)
   * An integer target value
 * Traverse[^1] through the given list of integers and create a total sum based on a unique pair of integers
@@ -65,8 +65,8 @@ Output: [0,1]
 
 ## Connected Readings
 
-* **Functions (**[**Link**](../../../02-programming-in-python/defining-functions/functions.md)**)**
-* **Loops (**[**Link**](../../../02-programming-in-python/iterations/)**)**
-* **List (**[**Link**](../../../02-programming-in-python/tuples-and-lists/list-basics.md)**)**
+* **Functions (**[**Link**](../../defining-functions/functions.md)**)**
+* **Loops (**[**Link**](../../iterations/)**)**
+* **List (**[**Link**](../../collections/tuples-and-lists/list-basics.md)**)**
 
 [^1]: iterating over the data structure; visit individual items in a list in this scenario

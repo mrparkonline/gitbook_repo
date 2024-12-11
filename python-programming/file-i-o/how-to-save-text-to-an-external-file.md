@@ -156,6 +156,6 @@ Customer 1, Freya, Apple
 
 ### Connected Reading
 
-* File Input / Output ([Link](../../02-programming-in-python/file-i-o/))
-* Dictionary ([Link](../../02-programming-in-python/dictionary.md))
-* List ([Link](../../02-programming-in-python/tuples-and-lists/))
+* File Input / Output ([Link](./))
+* Dictionary ([Link](../collections/dictionary.md))
+* List ([Link](../collections/tuples-and-lists/))

@@ -2,7 +2,7 @@
 
 ## Python & Data
 
-In Python, all built-in data that can be used are all considered as objects. The concept of objects will be covered in [a _future chapter_](../../python-programming/object-oriented-programming/class-and-objects-definitions.md)_._ Due to such concept, we must understand the concept of **mutability**.
+In Python, all built-in data that can be used are all considered as objects. The concept of objects will be covered in [a _future chapter_](../object-oriented-programming/class-and-objects-definitions.md)_._ Due to such concept, we must understand the concept of **mutability**.
 
 ### Immutability & Mutability
 
@@ -41,7 +41,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 """
 ```
 
-[**String**](../strings/) objects represent any textual data in Python. To create string data, you must trap the text in either single (`''`) or double quotation marks (`""`).&#x20;
+[**String**](../collections/strings/) objects represent any textual data in Python. To create string data, you must trap the text in either single (`''`) or double quotation marks (`""`).&#x20;
 
 Strings are a powerful object that will come with built-in [_methods_](#user-content-fn-1)[^1] for manipulation and comparison which will be studied later.
 
@@ -54,7 +54,7 @@ Some characters will be illegal `(example: "Jane "The Programmer" Doe")` will no
 
 `name = "Jane \"The Programmer\" Doe"`
 
-[**Escape Character**](https://www.w3schools.com/python/gloss\_python\_escape\_characters.asp) can be used to help meditate any issues on adding such illegal characters to strings properly.
+[**Escape Character**](https://www.w3schools.com/python/gloss_python_escape_characters.asp) can be used to help meditate any issues on adding such illegal characters to strings properly.
 {% endhint %}
 
 ```python
@@ -66,7 +66,7 @@ loop = True
 
 Boolean objects represents the concept of logical truth. It can have two possible values: `True` and `False`.&#x20;
 
-Booleans are fundamental in [_decision-making and controlling the flow of programs_](../conditionals/).
+Booleans are fundamental in [_decision-making and controlling the flow of programs_](conditionals/).
 
 ```python
 # Collection Data 1: Tuple
@@ -74,7 +74,7 @@ Booleans are fundamental in [_decision-making and controlling the flow of progra
 user = ("Jane Doe", "January 1st 2000", 1)
 ```
 
-[**Tuple**](../tuples-and-lists/) is _one of many data objects_ that allows multiple items to be stored in a single variable container.
+[**Tuple**](../collections/tuples-and-lists/) is _one of many data objects_ that allows multiple items to be stored in a single variable container.
 
 ## Mutable Data Objects
 
@@ -88,7 +88,7 @@ words = ["Hello", "World"]
 user = ["Jane Doe", "January 1st, 2000", 1]
 ```
 
-[**List**](../tuples-and-lists/) objects are a mutable container of any data where we can _dynamically_ add new items, extend it with another list, and remove values from it.&#x20;
+[**List**](../collections/tuples-and-lists/) objects are a mutable container of any data where we can _dynamically_ add new items, extend it with another list, and remove values from it.&#x20;
 
 ```python
 # Collection Data 3: Sets
@@ -97,7 +97,7 @@ fruits = {"Apple", "Banana", "Strawberry"}
 nums = {3,1,4,1,5,9}
 ```
 
-[**Set**](../sets.md) objects are based on [_mathematical definition of sets_](https://en.wikipedia.org/wiki/Set\_\(mathematics\)). Sets can only contain a single copy of an item (no duplicates allowed), and the items that are immutable. Sets are often used for their _membership operators_ as it is much faster than other data types.
+[**Set**](../collections/sets.md) objects are based on [_mathematical definition of sets_](https://en.wikipedia.org/wiki/Set_\(mathematics\)). Sets can only contain a single copy of an item (no duplicates allowed), and the items that are immutable. Sets are often used for their _membership operators_ as it is much faster than other data types.
 
 ```python
  # Collection Data 4: Dictionary
@@ -109,7 +109,7 @@ nums = {3,1,4,1,5,9}
  }
 ```
 
-[**Dictionaries**](../dictionary.md) objects are ways to create a collection of key (address) to value pairs. Dictionaries allow you to have a unique address for each of your items for fast retrieval.
+[**Dictionaries**](../collections/dictionary.md) objects are ways to create a collection of key (address) to value pairs. Dictionaries allow you to have a unique address for each of your items for fast retrieval.
 
 ## Type Casting
 
