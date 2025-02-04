@@ -114,7 +114,7 @@ The randomly generated password is: qK5g8sHj
 
 ### Connected Readings
 
-* **Membership Operation (**[**Link**](../../python-basics/conditionals/comparison-logical-and-membership-operators.md)**)**
+* **Membership Operation (**[**Link**](../../python-basics/comparison-logical-and-membership-operators.md)**)**
 * **Strings (**[**Link**](../../collections/strings/)**)**
 * **List (**[**Link**](../../collections/tuples-and-lists/)**)**
 

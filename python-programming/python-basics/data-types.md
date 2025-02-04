@@ -66,7 +66,7 @@ loop = True
 
 Boolean objects represents the concept of logical truth. It can have two possible values: `True` and `False`.&#x20;
 
-Booleans are fundamental in [_decision-making and controlling the flow of programs_](conditionals/).
+Booleans are fundamental in [_decision-making and controlling the flow of programs_](broken-reference).
 
 ```python
 # Collection Data 1: Tuple
