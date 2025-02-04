@@ -1,9 +1,10 @@
 # Table of contents
 
 * [💻 Introduction](README.md)
-  * [windows & Python Development](introduction/windows-and-python-development.md)
-  * [macOS & Python Development](introduction/macos-and-python-development.md)
+  * [windows & Python Development](introduction/where-how-to-code-in-python/README.md)
+  * [macOS & Python Development](introduction/where-how-to-code-in-python/macos-only-greater-than-terminal-tools.md)
   * [Visual Studio Code Settings](introduction/visual-studio-code-settings.md)
+  * [Set up Github](introduction/set-up-github.md)
   * [Author Page](introduction/author-page.md)
 * [🧠 Prerequisite Skills](01-prerequisite-skills/README.md)
   * [Keyboard Typing](01-prerequisite-skills/keyboard-typing.md)

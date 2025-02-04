@@ -1,6 +1,6 @@
 # Commenting & Variables
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## What is a comment?
 
@@ -24,7 +24,7 @@ Variables are named placeholders that allow a programmer to attach important dat
 
 1. start with lowercase letters
 2. labels that have multiple words are either `camelCased` or use `under_scores`
-3. labels cannot be the same as the [built-in keywords](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/\_keywords.html) in Java
+3. labels cannot be the same as the [built-in keywords](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html) in Java
 4. labels should not be ambiguous `let a = "Park";` is less descriptive than `let last_name = "Park";`
 
 ## Our Program Above

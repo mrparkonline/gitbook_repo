@@ -1,10 +1,10 @@
 # Dijkstra’s Algorithm
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>(GeeksforGeeks <a href="https://media.geeksforgeeks.org/wp-content/uploads/20240111182238/Working-of-Dijkstras-Algorithm-768.jpg">Source</a>)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>(GeeksforGeeks <a href="https://media.geeksforgeeks.org/wp-content/uploads/20240111182238/Working-of-Dijkstras-Algorithm-768.jpg">Source</a>)</p></figcaption></figure>
 
 Dijkstra’s algorithm finds the shortest path from a location to every other location.
 
-The above diagram is called a [graph](https://en.wikipedia.org/wiki/Graph\_\(abstract\_data\_type\))
+The above diagram is called a [graph](https://en.wikipedia.org/wiki/Graph_\(abstract_data_type\))
 
 * In our example graph, we have locations from 0 to 8. Locations are referred to as `"Nodes"`
 * Nodes are connected with line, which are called `"Edges"`
