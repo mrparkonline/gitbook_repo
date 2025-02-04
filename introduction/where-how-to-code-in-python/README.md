@@ -1,5 +1,9 @@
 # windows & Python Development
 
+{% hint style="danger" %}
+PLEASE DO NOT SAVE ANYTHING TO YOUR MICROSOFT ONE DRIVE
+{% endhint %}
+
 ## Setting up Python for Windows
 
 1. Delete any previous installations of Python and Restart the computer

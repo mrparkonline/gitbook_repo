@@ -1,5 +1,9 @@
 # macOS & Python Development
 
+{% hint style="danger" %}
+PLEASE DO NOT SAFE ANYTHING TO YOUR iCLOUD FOLDER
+{% endhint %}
+
 ### Setting up Python for macOS
 
 1. Install Python 3.11 or later from the Python Organization's website ([Link](https://www.python.org/downloads/))
