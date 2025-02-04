@@ -1,8 +1,20 @@
-# macOS Only -> Terminal Tools
+# macOS & Python Development
+
+### Setting up Python for macOS
+
+1. Install Python 3.11 or later from the Python Organization's website ([Link](https://www.python.org/downloads/))
+   1. You can install either the Gzipped source or XZ compressed file
+2. Install Visual Studio Code from their [**website**](https://code.visualstudio.com/download).
+3. Run Visual Studio Code for initial setup
+4. You do not need to download any extensions, and you are more than welcome to ignore such pop-ups
+
+
 
 <figure><img src="https://brew.sh/assets/img/homebrew-social-card.png" alt=""><figcaption></figcaption></figure>
 
-## Homebrew
+## Set up Homebrew
+
+[_Instructions here_](https://mac.install.guide/commandlinetools/3)
 
 Homebrew is a free, open-source package manager for macOS and Linux. It simplifies the process of installing, managing, and updating software on your system. Instead of manually downloading and configuring various tools and libraries, Homebrew allows you to install them with a single command.
 
@@ -16,9 +28,15 @@ To use Homebrew, you typically run commands like:
 
 It's widely used by developers to install programming languages, tools, and libraries efficiently.
 
+{% hint style="danger" %}
+Make sure that during installation of Homebrew, you are getting `XCode Command Line Tools`
+
+A message will pop up on your terminal during the installation of homebrew
+{% endhint %}
+
 ### Homebrew Installation Guide
 
-1. Search for `terminal` on spotlight (The maginifcation icon on the top right of all macs)
+1. Search for `terminal` on spotlight (The magnification icon on the top right of all macs)
 2. Insert the following code on terminal:
 
 ```
