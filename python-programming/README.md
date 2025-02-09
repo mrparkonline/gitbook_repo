@@ -15,7 +15,7 @@
   * [x] Binary Search requires a sorted list
   * [x] Division cannot have a denominator of 0
 * [ ] Postconditions of a Algorithm
-  * [ ] Testing and expected results
+  * [x] Testing and expected results
 * [ ] Exceptions
 * [ ] What is abstraction?
   * [ ] Tables, Queries
@@ -48,12 +48,12 @@
   * [x] Binary
     * [x] Bit, Byte, Binary, Hexadecimal
     * [x] How does a computer represent data
-  * [ ] Logic Gates
-    * [ ] AND, OR, NAND, NOR, XOR
-    * [ ] Truth Tables
-    * [ ] Logic Diagrams
+  * [x] Logic Gates
+    * [x] AND, OR, NAND, NOR, XOR
+    * [x] Truth Tables
+    * [x] Logic Diagrams
   * [x] Variable, Constant
-  * [ ] Objects
+  * [x] Objects
   * [x] Operators
     * [x] Arithmetic Operators
   * [x] Comparison + Conditionals
