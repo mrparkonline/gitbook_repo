@@ -221,3 +221,11 @@
     * [Bits & Binary](topics-in-cs/computer-environments-and-systems/bits-and-binary.md)
   * [Careers related to Computer Science](topics-in-cs/careers-related-to-computer-science.md)
   * [Postsecondary Opportunities](topics-in-cs/postsecondary-opportunities.md)
+
+## Data Management
+
+* [☝️ One Variable Analysis](data-management/one-variable-analysis/README.md)
+  * [Mean, Median, Mode](data-management/one-variable-analysis/mean-median-mode.md)
+  * [Range, Interquartile Range](data-management/one-variable-analysis/range-interquartile-range.md)
+  * [Variance](data-management/one-variable-analysis/variance.md)
+  * [Standard Deviation](data-management/one-variable-analysis/standard-deviation.md)
