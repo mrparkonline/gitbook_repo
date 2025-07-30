@@ -224,6 +224,9 @@
 
 ## Data Management
 
+* [🥸 Prerequisite to Statistical Analysis](data-management/prerequisite-to-statistical-analysis/README.md)
+  * [Types of Data](data-management/prerequisite-to-statistical-analysis/types-of-data/README.md)
+    * [Quantitative Data](data-management/prerequisite-to-statistical-analysis/types-of-data/quantitative-data.md)
 * [☝️ One Variable Analysis](data-management/one-variable-analysis/README.md)
   * [Mean, Median, Mode](data-management/one-variable-analysis/mean-median-mode.md)
   * [Range, Interquartile Range](data-management/one-variable-analysis/range-interquartile-range.md)

@@ -1,3 +1,7 @@
+---
+description: 'TB: 6.1'
+---
+
 # Mean, Median, Mode
 
 {% hint style="success" %}
