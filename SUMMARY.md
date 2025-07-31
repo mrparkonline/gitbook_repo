@@ -233,6 +233,7 @@
     * [Variability](data-management/prerequisite-to-statistical-analysis/population-and-sample/variability.md)
 * [☝️ One Variable Analysis](data-management/one-variable-analysis/README.md)
   * [Mean, Median, Mode](data-management/one-variable-analysis/mean-median-mode.md)
+  * [Weighted Mean](data-management/one-variable-analysis/weighted-mean.md)
   * [Range, Interquartile Range](data-management/one-variable-analysis/range-interquartile-range.md)
   * [Variance](data-management/one-variable-analysis/variance.md)
   * [Standard Deviation](data-management/one-variable-analysis/standard-deviation.md)
