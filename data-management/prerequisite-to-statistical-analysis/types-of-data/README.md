@@ -58,7 +58,7 @@ With ordinal typed data, each data point can be ranked against each other.
 
 ## Nominal Categorical Data
 
-With nominal typed data, each data point is collection of information with no ranking and no measurable distance between each data point.
+With nominal typed data, each data point contains information with no ranking and no measurable distance between each data point.
 
 > _In the example table above, the column containing "Netflix Shows Watched" is our nominal data_
 
