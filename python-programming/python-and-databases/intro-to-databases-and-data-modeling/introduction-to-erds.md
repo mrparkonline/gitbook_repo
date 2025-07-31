@@ -35,9 +35,9 @@ An **entity** is a real-world object or concept that can have data stored about 
 
 
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Relationships</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Relationships</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 **One-to-One (1:1)**
 

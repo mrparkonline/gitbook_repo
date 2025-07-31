@@ -2,7 +2,7 @@
 
 So far, we have created programs where we hardcoded the values for our variable.  We can make our program more interactive by implementing the ability to have the user input values to be stored in the variable by enter values in the console.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you notice the console (output) section, we **instructed** in our program to enter our name. When we provided a name and then press the enter key, we were able to assign `Park` to the variable `name`.
 
@@ -41,7 +41,7 @@ The act of changing the data type of a value is called **type casting.**
 
 To examine the importance of this. We will look at the following code:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ```javascript
 // Screenshot's code:

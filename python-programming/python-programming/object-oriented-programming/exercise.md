@@ -47,7 +47,7 @@ Solution Link
 
 ## 5) Stack
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 A [**`stack`**](https://en.wikipedia.org/wiki/Stack_\(abstract_data_type\)) is a data structure that has two main features:
 

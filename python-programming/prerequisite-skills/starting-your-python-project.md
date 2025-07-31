@@ -14,7 +14,7 @@ File >> Open Folder >> Right Click on an Empty Space and Create a New Folder
 
 1. **Learn the Terminal**
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 [TerminalTutor](https://www.terminaltutor.com/) is a fanatastic tool to learn how to use the terminal.
 
