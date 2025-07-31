@@ -224,9 +224,13 @@
 
 ## Data Management
 
+* [🧠 Data Management Flash Cards](https://quizlet.com/ca/1063240298/data-management-cards-flash-cards/?i=6olkpx\&x=1jqt)
 * [🥸 Prerequisite to Statistical Analysis](data-management/prerequisite-to-statistical-analysis/README.md)
   * [Types of Data](data-management/prerequisite-to-statistical-analysis/types-of-data/README.md)
     * [Quantitative Data](data-management/prerequisite-to-statistical-analysis/types-of-data/quantitative-data.md)
+  * [Population and Sample](data-management/prerequisite-to-statistical-analysis/population-and-sample/README.md)
+    * [Sampling Methods](data-management/prerequisite-to-statistical-analysis/population-and-sample/sampling-methods.md)
+    * [Variability](data-management/prerequisite-to-statistical-analysis/population-and-sample/variability.md)
 * [☝️ One Variable Analysis](data-management/one-variable-analysis/README.md)
   * [Mean, Median, Mode](data-management/one-variable-analysis/mean-median-mode.md)
   * [Range, Interquartile Range](data-management/one-variable-analysis/range-interquartile-range.md)
