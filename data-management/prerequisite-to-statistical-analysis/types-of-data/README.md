@@ -18,7 +18,7 @@ Categorical data involves non-numeric data points in a dataset. These data point
 1.  **Ordinal (each data point can be sorted and ranked against each other)**
 
     _Example: Netflix Show's Personal Rating: hate, dislike, neutral, like, love_
-2.  **Nominal (each data point categorizes with inherent order, ranking, or level of strength)**
+2.  **Nominal (each data point categorizes without inherent order, ranking, or level of strength)**
 
     _Example: Types of Dog Breeds: Westie, Samoyed, Golden Doodle_
 
