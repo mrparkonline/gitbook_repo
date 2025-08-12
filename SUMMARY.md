@@ -171,7 +171,7 @@
     * [Quantitative Data](data-management/prerequisite-to-statistical-analysis/types-of-data/quantitative-data.md)
   * [Population and Sample](data-management/prerequisite-to-statistical-analysis/population-and-sample/README.md)
     * [Sampling Methods](data-management/prerequisite-to-statistical-analysis/population-and-sample/sampling-methods.md)
-    * [Variability](data-management/prerequisite-to-statistical-analysis/population-and-sample/variability.md)
+  * [Variability](data-management/prerequisite-to-statistical-analysis/variability.md)
   * [One vs Two Variable Data](data-management/prerequisite-to-statistical-analysis/one-vs-two-variable-data.md)
 * [☝️ One Variable Analysis](data-management/one-variable-analysis/README.md)
   * [Mean, Median, Mode](data-management/one-variable-analysis/mean-median-mode.md)
